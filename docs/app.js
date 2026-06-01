@@ -1,10 +1,26 @@
-/* app.js - Loads pre-extracted dataset.json from /data/dataset.json and implements Study and Quiz modes */
-const DATA_URL = 'data/dataset.json';
+/* app.js - Loads pre-extracted dataset.json from ../data/dataset.json and implements Study and Quiz modes */
+const DATA_URL = '../data/dataset.json';
 let dataset = null;
 let currentPageIndex = 0;
 let filteredPages = [];
 let quizItems = []; // each item: {image, pageIndex, slideName, features}
 let quizState = {index:0,score:0,answers:[]};
+
+function normalizePath(p){
+  // Keep absolute URLs and data: URIs as-is
+  if(!p) return p;
+  if(/^https?:\/\//i.test(p) || p.startsWith('data:') || p.startsWith('blob:')) return p;
+  // If path starts from repository root like /data/... make it relative to docs/
+  if(p.startsWith('/data/')) return '..' + p;
+  // If path is root-relative without leading slash (e.g. data/...) when served from docs/ we need to go up one level
+  if(p.startsWith('data/')) return '../' + p;
+  // If already starts with ./data/ -> convert to ../data/
+  if(p.startsWith('./data/')) return '../' + p.slice(7);
+  // If it already looks relative from docs (../ or ./) return as-is
+  if(p.startsWith('../') || p.startsWith('./')) return p;
+  // fallback: return as-is
+  return p;
+}
 
 async function loadDataset(){
   const res = await fetch(DATA_URL);
@@ -37,7 +53,7 @@ function renderStudyPage(i){
   // images
   const imgs = document.createElement('div'); imgs.className='slide-images';
   page.images.forEach(img=>{
-    const imgEl = document.createElement('img'); imgEl.src = img.file; imgEl.alt = img.file;
+    const imgEl = document.createElement('img'); imgEl.src = normalizePath(img.file); imgEl.alt = img.file;
     imgs.appendChild(imgEl);
   });
   container.appendChild(imgs);
@@ -92,7 +108,7 @@ function showQuizQuestion(){
   const container = document.getElementById('quiz-content'); container.innerHTML='';
   const item = quizItems[Math.floor(qidx/2)];
   const isFirst = (qidx%2===0);
-  const img = document.createElement('img'); img.src = item.image; img.style.maxWidth='600px'; img.style.width='100%'; container.appendChild(img);
+  const img = document.createElement('img'); img.src = normalizePath(item.image); img.style.maxWidth='600px'; img.style.width='100%'; container.appendChild(img);
   if(isFirst){
     const q = document.createElement('h3'); q.textContent = 'What is the name of this slide?'; container.appendChild(q);
     // build options: 1 correct slideName, 3 incorrect slideNames
@@ -154,8 +170,9 @@ function showResults(){
   quizState.answers.filter(a=>!a.ok).forEach(a=>{
     const itemIndex = Math.floor(a.qidx/2);
     const item = quizItems[itemIndex];
+    const imageSrc = normalizePath(item.image);
     const card = document.createElement('div'); card.className='review-card';
-    card.innerHTML = `<img src="${item.image}" style="max-width:240px;display:block"><p>Your answer: ${a.chosen}</p><p>Correct answer: ${a.correct}</p>`;
+    card.innerHTML = `<img src="${imageSrc}" style="max-width:240px;display:block"><p>Your answer: ${a.chosen}</p><p>Correct answer: ${a.correct}</p>`;
     review.appendChild(card);
   });
   // store best score
@@ -174,12 +191,12 @@ function updateStats(){
 
 // UI wiring
 window.addEventListener('load',()=>{
-  document.getElementById('btn-study').onclick = ()=>{ document.getElementById('study-view').classList.remove('hidden'); document.getElementById('quiz-view').classList.add('hidden'); document.getElementById('results-view').classList.add('hidden'); document.getElementById('stats-view').classList.add('hidden'); };
+  document.getElementById('btn-study').onclick = ()=>{ document.getElementById('study-view').classList.remove('hidden'); document.getElementById('quiz-view').classList.add('hidden'); document.getElementById('stats-view').classList.add('hidden'); document.getElementById('results-view').classList.add('hidden'); };
   document.getElementById('btn-quiz').onclick = ()=>{ startQuiz(); };
-  document.getElementById('btn-stats').onclick = ()=>{ document.getElementById('stats-view').classList.remove('hidden'); document.getElementById('study-view').classList.add('hidden'); document.getElementById('quiz-view').classList.add('hidden'); document.getElementById('results-view').classList.add('hidden'); };
+  document.getElementById('btn-stats').onclick = ()=>{ document.getElementById('stats-view').classList.remove('hidden'); document.getElementById('study-view').classList.add('hidden'); document.getElementById('quiz-view').classList.add('hidden'); document.getElementById('results-view').classList.add('hidden'); updateStats(); };
   document.getElementById('prev-page').onclick = prevPage; document.getElementById('next-page').onclick = nextPage;
   document.getElementById('search').addEventListener('input',e=>doSearch(e.target.value));
   document.getElementById('next-question').onclick = nextQuestion;
   document.getElementById('restart-quiz').onclick = ()=>{ buildQuizItems(); startQuiz(); };
-  loadDataset().catch(e=>{ console.error(e); alert('Failed to load dataset.json. Please run the build script to generate /data/dataset.json and extracted images.'); });
+  loadDataset().catch(e=>{ console.error(e); alert('Failed to load dataset.json. Please ensure ../data/dataset.json exists relative to docs/ or run the build script to generate the data and extracted images.'); });
 });
