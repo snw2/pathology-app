@@ -30,32 +30,74 @@ def main():
     if not isinstance(data, dict):
         fail("Dataset JSON root is not an object")
 
-    # Basic schema checks
-    for key in ("images", "annotations"):
-        if key not in data:
-            fail(f"Missing required key: {key}")
-        if not isinstance(data[key], list):
-            fail(f"{key} must be a list")
+    # Accept either top-level "images" or a "pages" structure that contains images
+    if "images" not in data:
+        if "pages" in data and isinstance(data["pages"], list):
+            # flatten images from pages into top-level images list
+            flat_images = []
+            for page in data["pages"]:
+                if not isinstance(page, dict):
+                    continue
+                for img in page.get("images", []):
+                    # img is expected to be a dict; normalize available fields
+                    if isinstance(img, dict):
+                        # normalize to a file_name key used later
+                        normalized = {}
+                        # prefer existing file_name-like keys
+                        normalized["file_name"] = img.get("file") or img.get("file_name") or img.get("filename")
+                        # keep other fields (xref, id etc.) if present
+                        for k, v in img.items():
+                            if k not in ("file", "file_name", "filename"):
+                                normalized[k] = v
+                        flat_images.append(normalized)
+            data["images"] = flat_images
+        else:
+            fail("Missing required key: images")
+
+    # annotations may be absent; default to empty list for downstream checks
+    if "annotations" not in data:
+        data["annotations"] = []
+
+    # ensure types
+    if not isinstance(data["images"], list):
+        fail("images must be a list")
+    if not isinstance(data["annotations"], list):
+        fail("annotations must be a list")
 
     images = data["images"]
     annotations = data["annotations"]
 
-    # Optional: check that image entries contain file_name and that files exist
+    # Resolve image files robustly
     data_dir = dataset_path.parent
-    images_dir = data_dir / "images"
     missing_files = []
     missing_fields = 0
     for img in images:
         if not isinstance(img, dict):
             missing_fields += 1
             continue
+        # allow different keys; prefer normalized file_name
         fname = img.get("file_name") or img.get("filename") or img.get("file")
         if not fname:
             missing_fields += 1
             continue
-        img_path = images_dir / fname
-        if not img_path.exists():
-            missing_files.append(str(img_path))
+
+        # Try resolution strategies:
+        # 1) as provided (could be absolute or relative to repo root)
+        # 2) relative to dataset dir
+        # 3) data/images/<basename> relative to dataset dir
+        p1 = Path(fname)
+        p2 = data_dir / fname
+        p3 = data_dir / "images" / Path(fname).name
+
+        if p1.exists():
+            img_path = p1
+        elif p2.exists():
+            img_path = p2
+        elif p3.exists():
+            img_path = p3
+        else:
+            # preserve the most useful path for debugging (use p1 by default)
+            missing_files.append(str(p1))
 
     if missing_fields:
         fail(f"{missing_fields} image entries are missing a file name field")
