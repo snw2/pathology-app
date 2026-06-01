@@ -1,4 +1,3139 @@
 {
   "source_pdf": "pathology lab summary full_102337.pdf",
-  "pages": []
+  "pages": [
+    {
+      "pageNumber": 2,
+      "slideCandidates": [
+        "Coarctation of the aorta",
+        "Rheumatic heart disease",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n2\nDr. Hamzah AD\nCoarctation of the aorta\nsegmental narrowing of aorta\nDr. Hamzah AD\nRheumatic heart disease\nAschoff body (inflammatory nodules) in \nacute rheumatic carditis",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page2_img_1.png",
+          "xref": 24
+        },
+        {
+          "file": "data/images/page2_img_2.png",
+          "xref": 25
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Dr. Hamzah AD",
+        "Coarctation of the aorta",
+        "segmental narrowing of aorta",
+        "Dr. Hamzah AD",
+        "Rheumatic heart disease",
+        "Aschoff body (inflammatory nodules) in",
+        "acute rheumatic carditis"
+      ]
+    },
+    {
+      "pageNumber": 3,
+      "slideCandidates": [
+        "Rheumatic heart disease",
+        "Infective endocarditis",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n3\nDr. Hamzah AD\nAschoff body in acute rheumatic carditis\nBinucleated macrophage\nRheumatic heart disease\nDr. Hamzah AD\nInfective endocarditis\nMitral Valve vegetation\nbacterial colonies + fibrin deposition + inflammatory cells",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page3_img_3.png",
+          "xref": 29
+        },
+        {
+          "file": "data/images/page3_img_4.png",
+          "xref": 30
+        },
+        {
+          "file": "data/images/page3_img_5.png",
+          "xref": 31
+        },
+        {
+          "file": "data/images/page3_img_6.png",
+          "xref": 32
+        },
+        {
+          "file": "data/images/page3_img_7.png",
+          "xref": 33
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Dr. Hamzah AD",
+        "Aschoff body in acute rheumatic carditis",
+        "Binucleated macrophage",
+        "Rheumatic heart disease",
+        "Dr. Hamzah AD",
+        "Infective endocarditis",
+        "Mitral Valve vegetation",
+        "bacterial colonies + fibrin deposition + inflammatory cells"
+      ]
+    },
+    {
+      "pageNumber": 4,
+      "slideCandidates": [
+        "Polyarteritis nodosa or Kwasaki",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n4\nDr. Hamzah AD\nTemporal Giant cell arteritis or Takayasu vasculitis\nThe general features of vasculitis\n\nthickening of the wall\n\nnarrowing of the lumen\n\nleukocyte infiltrate\nCharacteristic Features:\n\ngranulomatous inflammation\n\ngiant cells\nDr. Hamzah AD\nPolyarteritis nodosa or Kwasaki\nCharacteristic Features:\n\ngeneral features of vasculitis observed\n\nnecrotizing vasculitis (Fibrinoid necrosis).",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page4_img_8.png",
+          "xref": 37
+        },
+        {
+          "file": "data/images/page4_img_9.png",
+          "xref": 46
+        },
+        {
+          "file": "data/images/page4_img_10.png",
+          "xref": 55
+        }
+      ],
+      "features": [
+        "Characteristic Features:",
+        "Characteristic Features:"
+      ]
+    },
+    {
+      "pageNumber": 5,
+      "slideCandidates": [
+        "Wegener's disease",
+        "Abdominal Aortic aneurysm",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n5\nDr. Hamzah AD\nWegener's disease\nCharacteristic Features:\n\nnecrotizing granuloma (Epithelioid cells and neutrophil at the middle).\n\nWe can't see the blood vessel wall, there's destruction of the wall.\n\nInvasion to the surrounding tissue.\nDr. Hamzah AD\nAbdominal Aortic aneurysm\nAbnormal permanent segmental dilatation of blood vessels",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page5_img_11.png",
+          "xref": 59
+        },
+        {
+          "file": "data/images/page5_img_12.png",
+          "xref": 60
+        }
+      ],
+      "features": [
+        "Characteristic Features:",
+        " We can't see the blood vessel wall, there's destruction of the wall."
+      ]
+    },
+    {
+      "pageNumber": 6,
+      "slideCandidates": [
+        "Arteriolosclerosis (Hypertension",
+        ")",
+        "Atherosclerosis"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n6\nDr. Hamzah AD\nArteriolosclerosis (Hypertension\n)\nhyperplastic arteriolosclerosis (Onion shaped)\nHyaline arteriolosclerosis\n• \nAmorphous material.\nDr. Hamzah AD\nAtherosclerosis\nGross picture of Atherosclerosis shows mass in \nthe lumen\nCharacteristic Features:\n\nAtheroma composed of:\n\nfibrous cap\n\nfibrin\n\nleukocyte\n\nsmooth muscle\n\nfat (cholesterol) \nall are found in intima",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page6_img_13.png",
+          "xref": 64
+        },
+        {
+          "file": "data/images/page6_img_14.png",
+          "xref": 73
+        },
+        {
+          "file": "data/images/page6_img_15.png",
+          "xref": 74
+        },
+        {
+          "file": "data/images/page6_img_16.png",
+          "xref": 75
+        }
+      ],
+      "features": [
+        "•  Amorphous material.",
+        "Characteristic Features:",
+        " Atheroma composed of:"
+      ]
+    },
+    {
+      "pageNumber": 7,
+      "slideCandidates": [
+        "Respiratory System",
+        "Pulmonary Edema",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n7\nRespiratory System\nDr. Hamzah AD\nPulmonary Edema\nDiagnosis:\nPulmonary edema (Mild)\n \nCharacteristic Features:\nNormal alveolar wall.\nAccumulation of fluids in the alveolar space",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page7_img_17.png",
+          "xref": 79
+        }
+      ],
+      "features": [
+        "Diagnosis:",
+        "Characteristic Features:"
+      ]
+    },
+    {
+      "pageNumber": 8,
+      "slideCandidates": [
+        "Pulmonary Edema",
+        "Emphysema",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n8\nDr. Hamzah AD\npulmonary edema (Severe)\n \nCharacteristic Features: \n- Transudate in the alveolar lumen\n- Dilated capillaries in the alveolar wall\n- Thickened alveolar walls \n(dilated capillaries and interstitial edema)\nPulmonary Edema\nDr. Hamzah AD\nEmphysema\n•\n \nDilated alveoli\n•\n \nThin walls \n•\n \nwithout fibrosis",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page8_img_18.png",
+          "xref": 83
+        },
+        {
+          "file": "data/images/page8_img_19.png",
+          "xref": 84
+        }
+      ],
+      "features": [
+        "Characteristic Features:",
+        "- Transudate in the alveolar lumen",
+        "- Dilated capillaries in the alveolar wall",
+        "- Thickened alveolar walls",
+        "•   Dilated alveoli",
+        "•   Thin walls",
+        "•   without fibrosis"
+      ]
+    },
+    {
+      "pageNumber": 9,
+      "slideCandidates": [
+        "Asthma",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n9\nDr. Hamzah AD\nAsthma\nCharacteristic Features:\n1-Hyperplasia and hypertrophy of the Smooth Muscles.\n2-Features of inflammation: (edema, neutrophil infiltrate, eosinophilic infiltrate)\n3-Hyperplasia of mucus glands.\nDr. Hamzah AD\nAsthma\nCharcot-Leyden crystals:\nMicroscopic crystals composed of eosinophil protein \ngahectin-10 found in people who have allergic \ndiseases.\n(morphologic hallmark of eosinophil-related disease)\nCushman spirals:\nmicroscopic findings in the sputum of the asthmatics.\nThey are spiral-shaped mucus plugs from sub-\nepithelial mucus gland ducts of bronchi.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page9_img_20.png",
+          "xref": 88
+        },
+        {
+          "file": "data/images/page9_img_21.png",
+          "xref": 89
+        },
+        {
+          "file": "data/images/page9_img_22.png",
+          "xref": 90
+        },
+        {
+          "file": "data/images/page9_img_23.png",
+          "xref": 91
+        }
+      ],
+      "features": [
+        "Characteristic Features:",
+        "2-Features of inflammation: (edema, neutrophil infiltrate, eosinophilic infiltrate)",
+        "Charcot-Leyden crystals:",
+        "Cushman spirals:"
+      ]
+    },
+    {
+      "pageNumber": 10,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "10"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n10\nDr. Hamzah AD\nAcute pneumonia\nChronic pneumonia\nRed hepatization of the lung\nGray hepatization of the lung\nDr. Hamzah AD\nInflammatory infiltrate with neutrophils in \nthe alveolar wall and intra-lalveolar space.\nAcute bacterial pneumonia\nChronic pneumonia\nGranulation tissue and fibrosis",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page10_img_24.png",
+          "xref": 95
+        },
+        {
+          "file": "data/images/page10_img_25.png",
+          "xref": 96
+        },
+        {
+          "file": "data/images/page10_img_26.png",
+          "xref": 97
+        },
+        {
+          "file": "data/images/page10_img_27.png",
+          "xref": 98
+        },
+        {
+          "file": "data/images/page10_img_28.png",
+          "xref": 99
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Dr. Hamzah AD",
+        "Acute pneumonia",
+        "Chronic pneumonia",
+        "Red hepatization of the lung",
+        "Gray hepatization of the lung",
+        "Dr. Hamzah AD",
+        "Inflammatory infiltrate with neutrophils in",
+        "the alveolar wall and intra-lalveolar space.",
+        "Acute bacterial pneumonia",
+        "Chronic pneumonia",
+        "Granulation tissue and fibrosis"
+      ]
+    },
+    {
+      "pageNumber": 11,
+      "slideCandidates": [
+        "Atypical Pneumonia",
+        "Lung Carcinoid tumor",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n11\nDr. Hamzah AD\nAtypical Pneumonia\nInflammatory cell infiltrate (lymphocyte and plasma cells) in the interstitial lung tissue.\n>> Thickening of the wall.\nDr. Hamzah AD\nLung Carcinoid tumor\nNests of round cells separated by fibrous tissue\nwith Salt and Papper chromatin pattern of the cells.\n2 – 4 cm yellow-red mass\nWhite to tan in cross section\nNo necrosis\nNo hemorrhage",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page11_img_29.png",
+          "xref": 103
+        },
+        {
+          "file": "data/images/page11_img_30.png",
+          "xref": 104
+        },
+        {
+          "file": "data/images/page11_img_31.png",
+          "xref": 105
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Dr. Hamzah AD",
+        "Atypical Pneumonia",
+        ">> Thickening of the wall.",
+        "Dr. Hamzah AD",
+        "Lung Carcinoid tumor",
+        "Nests of round cells separated by fibrous tissue",
+        "2 – 4 cm yellow-red mass",
+        "White to tan in cross section",
+        "No necrosis",
+        "No hemorrhage"
+      ]
+    },
+    {
+      "pageNumber": 12,
+      "slideCandidates": [
+        "Thyroid",
+        "Colloid goiter",
+        "Enlarged follicles lined by low cuboidal (flattened) cells, Distended with colloid."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n12\nThyroid\nColloid goiter \nEnlarged follicles lined by low cuboidal (flattened) cells, Distended with colloid.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page12_img_32.png",
+          "xref": 109
+        }
+      ],
+      "features": [
+        "Enlarged follicles lined by low cuboidal (flattened) cells, Distended with colloid."
+      ]
+    },
+    {
+      "pageNumber": 13,
+      "slideCandidates": [
+        "Nodular (multinodular) goiter",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n13\nNodular (multinodular) goiter \nCut-section shows variable sized nodules separated by fibrous tissue,\nSome nodules are solid (hyperplastic) other are cystic containing brownish colloid. \nAreas of hemorrhage, calcification and fibrosis are present. \nNodular (multinodular) goiter \nSome follicles are normal (cubical cells). Some follicles are hyperplastic (columnar cells).\nSome follicles show colloid distension.\nSome follicles may rupture → hemorrhage, fibrosis and calcification.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page13_img_33.png",
+          "xref": 113
+        },
+        {
+          "file": "data/images/page13_img_34.png",
+          "xref": 114
+        }
+      ],
+      "features": [
+        "Cut-section shows variable sized nodules separated by fibrous tissue,",
+        "Areas of hemorrhage, calcification and fibrosis are present.",
+        "Some follicles may rupture → hemorrhage, fibrosis and calcification."
+      ]
+    },
+    {
+      "pageNumber": 14,
+      "slideCandidates": [
+        "Chronic Lymphocytic (Hashimoto’s) thyroiditis",
+        "GRAVIS DISEASE",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n14\nGRAVIS DISEASE \n•\nHyperplastic follicles lined by tall columnar cells and more crowded. \n•\nFormation of small papillae. \n•\nThe colloid is pale with scalloped margins (vacuolated); due to rapid absorption. \n•\nVascular stroma containing several lymphocytes that may form aggregates. \nChronic Lymphocytic (Hashimoto’s) thyroiditis\nDiffuse infiltration by mononuclear inflammatory cell (small lymphocyte, plasma cells), and \nwell developed germinal centers. \nAtrophy of the thyroid follicles that appear small and may lined by epithelial cells that have \nabundant eosinophilic granular cytoplasm and called \nhurthle\n or \noxyphil\n cells.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page14_img_35.png",
+          "xref": 118
+        },
+        {
+          "file": "data/images/page14_img_36.png",
+          "xref": 119
+        },
+        {
+          "file": "data/images/page14_img_37.png",
+          "xref": 120
+        }
+      ],
+      "features": [
+        "•",
+        "•",
+        "•",
+        "•",
+        "Diffuse infiltration by mononuclear inflammatory cell (small lymphocyte, plasma cells), and"
+      ]
+    },
+    {
+      "pageNumber": 15,
+      "slideCandidates": [
+        "Thyroid adenomas",
+        "Thyroid adenoma",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n15\nThyroid adenomas\nSolitary., Encapsulated and well-demarkated from the surrounding normal thyroid. \nCut-section →gray white to red-brown depending on the amount of colloid. \nAreas of hemorrhage, necrosis and calcification may appear. \nThyroid adenoma\nWell-Defined capsule demarcating the tumor cells from normal thyroid. \nUsually normally appearing follicles containing colloid. \nMay be micro-follicular, or macro-follicular. \nPapillary change is not a typical feature, and if present increase the incidence of papillary \ncarcinoma.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page15_img_38.png",
+          "xref": 124
+        },
+        {
+          "file": "data/images/page15_img_39.png",
+          "xref": 125
+        },
+        {
+          "file": "data/images/page15_img_40.png",
+          "xref": 126
+        }
+      ],
+      "features": [
+        "Solitary., Encapsulated and well-demarkated from the surrounding normal thyroid.",
+        "Areas of hemorrhage, necrosis and calcification may appear.",
+        "May be micro-follicular, or macro-follicular.",
+        "Papillary change is not a typical feature, and if present increase the incidence of papillary"
+      ]
+    },
+    {
+      "pageNumber": 16,
+      "slideCandidates": [
+        "Papillary carcinoma",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n16\nPapillary carcinoma\nSolitary or multifocal lesion. May be:\n→ well circumscribed and even encapsulated, Or\n→ ill-defined and infiltrative. \nMay shows area of fibrosis and calcification and often cyst. \nCut-section → granular→ sometimes grossly papillary foci. \nPapillary carcinoma \nWell-formed papillary projections \ncovered with a single layer of \ncuboidal epithelium. \nThe papillae have a core of vascular \nconnective tissue.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page16_img_41.png",
+          "xref": 130
+        },
+        {
+          "file": "data/images/page16_img_42.png",
+          "xref": 131
+        }
+      ],
+      "features": [
+        "Solitary or multifocal lesion. May be:",
+        "→ well circumscribed and even encapsulated, Or"
+      ]
+    },
+    {
+      "pageNumber": 17,
+      "slideCandidates": [
+        "Papillary carcinoma",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n17\nPapillary carcinoma \n•\nWell-formed papillary projections covered \nwith a single layer of cuboidal epithelium. \n•\nThe papillae have a core of vascular \nconnective tissue. \n•\nThe nuclei are of uniform size, pale stained, \nand show mitotic features.\n \n•\nMay show calcified areas that appear as \nadense bluish area and are called \npsammoma bodies.\n \n•\nMay show foci of lymphocytic infiltration. \nPapillary carcinoma \nwell-formed papillae are lined by cells with characteristic \nempty-appearing nuclei\n, \nsometimes termed \nOrphan Annie \neye.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page17_img_43.png",
+          "xref": 135
+        },
+        {
+          "file": "data/images/page17_img_44.png",
+          "xref": 136
+        },
+        {
+          "file": "data/images/page17_img_45.png",
+          "xref": 137
+        }
+      ],
+      "features": [
+        "•",
+        "•",
+        "•",
+        "The nuclei are of uniform size, pale stained,",
+        "•",
+        "•",
+        "well-formed papillae are lined by cells with characteristic  empty-appearing nuclei ,"
+      ]
+    },
+    {
+      "pageNumber": 18,
+      "slideCandidates": [
+        "Bone",
+        "Chronic osteomyelitis",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n18\nBone\nDr. Hamzah AD\nGross:\nThe \nsolid arrow \npoints to necrotic bone in the \ncenter of a draining abscess (\nsequestrum\n). \nThe \ninterrupted arrow \nis a rim of new bone \nformation (\ninvolucrum\n).  \nChronic osteomyelitis\nMicroscopic:\n\nShown here in the marrow is fibrosis ( )\n\nChronic inflammatory cell infiltrates (\n).\n\nThe bony trabeculae have become \ndisorganized, and the bone is devitalized ( ).",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page18_img_46.png",
+          "xref": 141
+        },
+        {
+          "file": "data/images/page18_img_47.png",
+          "xref": 142
+        },
+        {
+          "file": "data/images/page18_img_48.png",
+          "xref": 144
+        }
+      ],
+      "features": [
+        "Gross:",
+        "Microscopic:",
+        "disorganized, and the bone is devitalized ( )."
+      ]
+    },
+    {
+      "pageNumber": 19,
+      "slideCandidates": [
+        "Osteochondroma",
+        "Osteoid osteoma",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n19\nDr. Hamzah AD\n•\nA benign cartilaginous cap on the left.\n•\nUnderlying bony cortex on the right. \nOsteochondroma\nOsteochondroma of the femur showing a \nbluish-white cartilaginous cap overlying a \nbony cortex. \n•\n \nA slowly growing solitary mass.\n•\n \nExtends outward from the metaphyseal region of a long bone \n(\nexostosis)\n.\n•\n \nArising most often \nbefore growth plate closure\n. \n•\n \nThe \nknee \nis the most common site.\n•\n \nMalignant transformation is \nuncommon \nin solitary lesions. \nDr. Hamzah AD\nA, \ntypical osteoid osteoma in the medullary bone of the tibia (circle). \nB, \nAt higher magnification, the tumor consists of irregular masses of recently formed osteoid \n(Ost) produced by numerous active but benign osteoblasts (Ob).  \nOsteoid osteoma",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page19_img_49.png",
+          "xref": 148
+        },
+        {
+          "file": "data/images/page19_img_50.png",
+          "xref": 149
+        },
+        {
+          "file": "data/images/page19_img_51.png",
+          "xref": 150
+        }
+      ],
+      "features": [
+        "•",
+        "•",
+        "•   A slowly growing solitary mass.",
+        "•   Extends outward from the metaphyseal region of a long bone",
+        "•   Arising most often  before growth plate closure .",
+        "•   The  knee  is the most common site.",
+        "•   Malignant transformation is  uncommon  in solitary lesions.",
+        "A,  typical osteoid osteoma in the medullary bone of the tibia (circle).",
+        "B,  At higher magnification, the tumor consists of irregular masses of recently formed osteoid"
+      ]
+    },
+    {
+      "pageNumber": 20,
+      "slideCandidates": [
+        "Giant cell tumor",
+        "Chondrosarcoma",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n20\nDr. Hamzah AD\nGiant cell tumor of bone\nB, Gross \nshowing a hemorrhagic mass at the distal end of the femur arising within epiphyseal region \nand extending into the metaphysis. It has destroyed the cortex and extended into the adjacent tissue. \nC, Microscopic image \nGiant cell tumors of bone are composed of osteoclast-like multinucleated giant \ncells in a sea of round-to-oval mononuclear stromal cells. \nGiant cell tumor\nDr. Hamzah AD\nChondrosarcoma, microscopic\nThe tissue is still recognizable as cartilage, and \nthere are chondrocytes within clear lacunae, \nsurrounded by a bluish matrix, but there is no \norderly pattern, and there is increased cellularity \nand atypia. \nAt the bottom the chondrosarcoma is invading and \ndestroying bone. \nChondrosarcoma\nChondrosarcoma. \nGelatinous-appearing gray-tan tumor infiltrating \nthe bone.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page20_img_52.png",
+          "xref": 154
+        },
+        {
+          "file": "data/images/page20_img_53.png",
+          "xref": 155
+        },
+        {
+          "file": "data/images/page20_img_54.png",
+          "xref": 156
+        },
+        {
+          "file": "data/images/page20_img_55.png",
+          "xref": 157
+        }
+      ],
+      "features": [
+        "B, Gross  showing a hemorrhagic mass at the distal end of the femur arising within epiphyseal region",
+        "C, Microscopic image  Giant cell tumors of bone are composed of osteoclast-like multinucleated giant",
+        "Chondrosarcoma, microscopic",
+        "The tissue is still recognizable as cartilage, and",
+        "there are chondrocytes within clear lacunae,",
+        "surrounded by a bluish matrix, but there is no",
+        "orderly pattern, and there is increased cellularity"
+      ]
+    },
+    {
+      "pageNumber": 21,
+      "slideCandidates": [
+        "Osteosarcoma",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n21\nDr. Hamzah AD\nOsteosarcoma, gross\n\nIrregular mass lesion arising within the \nmetaphysis at the upper tibia in this section. \n\nIt breaks through the bone cortex and \nextends into adjacent soft tissue. \n\nThe tumor tissue is firm and tan-white.\nOsteosarcoma\n•\nVery pleomorphic cells, many with a spindle shape. \n•\nOne Large, bizarre multinucleated cell (\nred arrow\n) \nwith very large nuclei is present. \n•\nNuclear hyperchromatism.\n•\nIslands (\nwhite arrow\n) of reactive new woven bone \nforming. \nDr. Hamzah AD\nOsteosarcoma, microscopic\n\nThe neoplastic pleomorphic cells of \nosteosarcoma are shown to be making \npink osteoid (*). \n\nOsteoid production by a sarcoma is \ndiagnostic\n of an osteosarcoma. \n\nAdditional microscopic elements of an \nosteosarcoma include: \nVascular proliferation, \ncartilaginous matrix, \nand fibrous connective tissue. \nOsteosarcoma",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page21_img_56.png",
+          "xref": 161
+        },
+        {
+          "file": "data/images/page21_img_57.png",
+          "xref": 162
+        },
+        {
+          "file": "data/images/page21_img_58.png",
+          "xref": 163
+        }
+      ],
+      "features": [
+        "Osteosarcoma, gross",
+        "•",
+        "Very pleomorphic cells, many with a spindle shape.",
+        "•",
+        "One Large, bizarre multinucleated cell ( red arrow )",
+        "•",
+        "•",
+        "Osteosarcoma, microscopic",
+        "osteosarcoma include:",
+        "Vascular proliferation,",
+        "cartilaginous matrix,"
+      ]
+    },
+    {
+      "pageNumber": 22,
+      "slideCandidates": [
+        "Ewing Sarcoma",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n22\nDr. Hamzah AD\nA, \nEwing sarcoma originates in the \ndiaphysis\n of long bones. \nB, \nHistologically, the tumor is composed of a \nuniform\n population of \nsmall blue cells infiltrating the spaces between the bone trabeculae.  \n\nThis primary bone tumor mainly arises \nwithin the \nmedullary cavity in the \ndiaphysis of long bones \nand pelvis.\n\nMainly in the first two decades of life\n\nSlight male predominance. \nEwing Sarcoma\nDr. Hamzah AD\nEwing sarcoma, gross\nThe fibular tumor mass shown here is \nbreaking through (arrow) the cortex. \nThe \ntan tumor\n tissue has prominent areas of \nreddish hemorrhage \nand \nbrownish necrosis\n. \nEwing sarcoma, microscopic\n\nA small round blue cell tumor of childhood. \n\nMarked cellularity and the high n/c ratio of these \ntumor cells, which are larger than lymphocytes. \n\nThere is little intervening stroma.\n\nMitoses are present. \n\nPAS stain may reveal abundant glycogen within \ntumor cell cytoplasm. \nEwing Sarcoma",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page22_img_59.png",
+          "xref": 167
+        },
+        {
+          "file": "data/images/page22_img_60.png",
+          "xref": 168
+        },
+        {
+          "file": "data/images/page22_img_61.png",
+          "xref": 169
+        },
+        {
+          "file": "data/images/page22_img_62.png",
+          "xref": 170
+        }
+      ],
+      "features": [
+        "A,  Ewing sarcoma originates in the  diaphysis  of long bones.",
+        "B,  Histologically, the tumor is composed of a  uniform  population of",
+        "Ewing sarcoma, gross",
+        "Ewing sarcoma, microscopic",
+        "tumor cells, which are larger than lymphocytes."
+      ]
+    },
+    {
+      "pageNumber": 23,
+      "slideCandidates": [
+        "GIT",
+        "Bone Metastasis",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n23\nDr. Hamzah AD\nMetastases, gross\nThis sagittal section of vertebral bone at \nautopsy shows multiple foci of pale and \nirregular metastatic tumor. \nBone Metastasis\nMetastases, microscopic\nMetastatic ductal carcinoma of breast appears within \nvertebral bone, and it is filling the marrow cavity. \nThere is reactive new bone at the margin of the \ncarcinoma. \nGIT",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page23_img_63.png",
+          "xref": 174
+        },
+        {
+          "file": "data/images/page23_img_64.png",
+          "xref": 175
+        }
+      ],
+      "features": [
+        "Metastases, gross",
+        "Metastases, microscopic",
+        "vertebral bone, and it is filling the marrow cavity."
+      ]
+    },
+    {
+      "pageNumber": 24,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "24"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n24\nPAROTID GLAND PLEOMORPHIC ADENOMA (MIXED TUMOR) - Gross\n\nGenerally benign\n\nHave BOTH connective tissue \n(i.e., usually cartilagenous) components as \nwell as glandular components, hence the \nname pleomorphic or mixed.\n\nThey generally look and feel like little \nround soft cartilage balls.\nDr. Hamzah AD\nPLEOMORPHIC ADENOMA - Microscopically\nMixed tumor of the parotid gland \ncontains:\nEpithelial cells forming ducts, \nMyoepithelial cells, \nChondromyxoid stroma   \nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page24_img_65.png",
+          "xref": 179
+        },
+        {
+          "file": "data/images/page24_img_66.png",
+          "xref": 180
+        },
+        {
+          "file": "data/images/page24_img_67.png",
+          "xref": 181
+        },
+        {
+          "file": "data/images/page24_img_68.png",
+          "xref": 182
+        }
+      ],
+      "features": [
+        "(i.e., usually cartilagenous) components as",
+        "well as glandular components, hence the",
+        "contains:",
+        "Epithelial cells forming ducts,",
+        "Myoepithelial cells,"
+      ]
+    },
+    {
+      "pageNumber": 25,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "25"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n25\nReflux esophagitis\n: \nnecrosis of esophageal epithelium causing ulcers \nnear the junction of the stomach and esophagus\nGASTROESOPHAGEAL REFLUX DISEASE (GERD)\nIntraepithelial eosinophils (arrow)\nBasal cell hyperplasia (high power, H/E stain).\nDr. Hamzah AD\nAreas of mucosal erythema of the lower \nesophagus, with islands of normal pale \nesophageal squamous mucosa. \nBARRETT’S  ESOPHAGUS\nThere is gastric-type mucosa above the gastroesophageal junction. \nNote the columnar epithelium to the left and the squamous \nepithelium at the right. \nTypical Barrett's mucosa shows intestinal metaplasia with chronic \ninflammation  (note the goblet cells in the columnar mucosa).\nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page25_img_69.png",
+          "xref": 186
+        },
+        {
+          "file": "data/images/page25_img_70.png",
+          "xref": 187
+        },
+        {
+          "file": "data/images/page25_img_71.png",
+          "xref": 188
+        },
+        {
+          "file": "data/images/page25_img_72.png",
+          "xref": 189
+        },
+        {
+          "file": "data/images/page25_img_73.png",
+          "xref": 190
+        },
+        {
+          "file": "data/images/page25_img_74.png",
+          "xref": 191
+        }
+      ],
+      "features": [
+        "Reflux esophagitis :",
+        "Basal cell hyperplasia (high power, H/E stain).",
+        "esophagus, with islands of normal pale"
+      ]
+    },
+    {
+      "pageNumber": 26,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "26"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n26\nSquamous cell Carcinoma of the Esophagus\n\nWhitish thickening of the esophageal wall.\n\nThe oval structure adjacent to the esophagus \nrepresents metastatic squamous cell carcinoma \nwithin a lymph node. \nDr. Hamzah AD\n\nInfiltrating nests of neoplastic cells.\n\nNeoplastic cells having abundant pink \ncytoplasm and \ndistinct\n cell borders.\n\nKeratin pearls (laminated layers).\nAcute gastritis with a diffusely hyperemic mucosa.\nThere are many causes for acute gastritis: \nalcoholism, drugs, infections, etc.\nAcute Gastritis\nGastric mucosa demonstrates infiltration by neutrophils.\nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page26_img_75.png",
+          "xref": 195
+        },
+        {
+          "file": "data/images/page26_img_76.png",
+          "xref": 196
+        },
+        {
+          "file": "data/images/page26_img_77.png",
+          "xref": 197
+        },
+        {
+          "file": "data/images/page26_img_78.png",
+          "xref": 198
+        },
+        {
+          "file": "data/images/page26_img_79.png",
+          "xref": 199
+        },
+        {
+          "file": "data/images/page26_img_80.png",
+          "xref": 200
+        }
+      ],
+      "features": [
+        "There are many causes for acute gastritis:",
+        "alcoholism, drugs, infections, etc."
+      ]
+    },
+    {
+      "pageNumber": 27,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "27"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n27\n\nGastritis is often accompanied by infection with H. pylori.\n\nSmall curved to spiral rod-shaped bacterium is found in the \nsurface epithelial mucosa of active disease\n.\n\nThe rods are seen here with a methylene blue stain (left) and \nSilver stain (right).\nChronic Gastritis – H Pylori\nDr. Hamzah AD\n\nNo erosions, no hemorrhage.\n\nSome \nneutrophils\n (intraepithelial).\n\nLymphocytes\n in lamina propria.\n\nLymphoid follicles hyperplasia in \nsubmucosa\n.\n\nComa-shaped eosinophilic figures (H.Pylori).\n\nAtrophy : mucosal hypoplasia, “thinning”.\nChronic Gastritis – H Pylori\nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page27_img_81.png",
+          "xref": 204
+        },
+        {
+          "file": "data/images/page27_img_82.png",
+          "xref": 205
+        },
+        {
+          "file": "data/images/page27_img_83.png",
+          "xref": 206
+        },
+        {
+          "file": "data/images/page27_img_84.png",
+          "xref": 207
+        },
+        {
+          "file": "data/images/page27_img_85.png",
+          "xref": 208
+        }
+      ],
+      "features": [
+        " No erosions, no hemorrhage.",
+        " Atrophy : mucosal hypoplasia, “thinning”."
+      ]
+    },
+    {
+      "pageNumber": 28,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "28"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n28\n•\n \n“PEPTIC” implies acid causes aggravation.\n•\n \nChronic, solitary (usually), adults.\n•\n \n80% caused by H. Pylori, NSAIDs, Stress.\nBenign Peptic Ulcer\nFour zones:\n1- Necrotic Zone\n2- area of Acute inflammation\n3- Granulation tissue\n4- Dense fibrocollagenous zone.\n1- Area of necrosis.     2- Normal thickness.\n3- clear base.                4- inverted edges.\n5- Radiating spokes.\nDr. Hamzah AD\nMalignant Ulcer\nEverted \nand thickened Edges \nsurrounding the ulcer\nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page28_img_86.png",
+          "xref": 212
+        },
+        {
+          "file": "data/images/page28_img_87.png",
+          "xref": 213
+        },
+        {
+          "file": "data/images/page28_img_88.png",
+          "xref": 214
+        },
+        {
+          "file": "data/images/page28_img_89.png",
+          "xref": 215
+        },
+        {
+          "file": "data/images/page28_img_90.png",
+          "xref": 216
+        }
+      ],
+      "features": [
+        "•   “PEPTIC” implies acid causes aggravation.",
+        "•   Chronic, solitary (usually), adults.",
+        "•   80% caused by H. Pylori, NSAIDs, Stress.",
+        "Four zones:"
+      ]
+    },
+    {
+      "pageNumber": 29,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "29"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n29\nGastric Adenocarcinoma\nWhitish thickening of the stomach wall\nDr. Hamzah AD\nGastric Adenocarcinoma - Lentis Plastica\n\nLinitis Plastica, a diffuse infiltrative gastric adenocarcinoma, \n\nA shrunken \"leather bottle\" appearance. \n\nExtensive mucosal erosion. \n\nMarkedly thickened gastric wall.\n\nThis has a very poor prognosis.\nPoorly differentiated adenocarcinoma, and are often seen \nwith Lentis Plastica. \nThis is \na signet ring cell pattern \nof adenocarcinoma in which the cells are filled with \nmucin vacuoles \nthat push \nthe \nnucleus to the periphery \ngiving the cell signet ring appearance.\nGastric Adenocarcinoma – Signet ring cell\nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page29_img_91.png",
+          "xref": 220
+        },
+        {
+          "file": "data/images/page29_img_92.png",
+          "xref": 221
+        },
+        {
+          "file": "data/images/page29_img_93.png",
+          "xref": 222
+        },
+        {
+          "file": "data/images/page29_img_94.png",
+          "xref": 223
+        },
+        {
+          "file": "data/images/page29_img_95.png",
+          "xref": 224
+        },
+        {
+          "file": "data/images/page29_img_96.png",
+          "xref": 225
+        },
+        {
+          "file": "data/images/page29_img_97.png",
+          "xref": 226
+        },
+        {
+          "file": "data/images/page29_img_98.png",
+          "xref": 227
+        },
+        {
+          "file": "data/images/page29_img_99.png",
+          "xref": 228
+        }
+      ],
+      "features": [
+        " Linitis Plastica, a diffuse infiltrative gastric adenocarcinoma,",
+        "Poorly differentiated adenocarcinoma, and are often seen  with Lentis Plastica."
+      ]
+    },
+    {
+      "pageNumber": 30,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "30"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n30\nCeliac Disease (Sprue)\nDamaged surface epithelium. \nintraepithelial lymphocytes\n.\nfully developed sprue-type changes. Note the \nelongated crypts with complete lack (\nflattening\n) of villi. \nCarcinoid tumor of small intestine\na tumor that has a \nfaint yellowish color\n. \nMost are incidental submucosal lesions, though rarely \nthey can be large enough to obstruct the lumen.\nCarcinoid tumor showing \nstrong positive staining \nwith the \nSynaptophysin Immunohistochemical \nstain (IHC stain)\n.\nThis finding confirms the neuroendocrine nature \nof this neoplasm.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page30_img_100.png",
+          "xref": 232
+        },
+        {
+          "file": "data/images/page30_img_101.png",
+          "xref": 233
+        },
+        {
+          "file": "data/images/page30_img_102.png",
+          "xref": 234
+        },
+        {
+          "file": "data/images/page30_img_103.png",
+          "xref": 235
+        },
+        {
+          "file": "data/images/page30_img_104.png",
+          "xref": 236
+        }
+      ],
+      "features": [
+        "Most are incidental submucosal lesions, though rarely"
+      ]
+    },
+    {
+      "pageNumber": 31,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "31"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n31\nCrohn’s Disease\nHere the inflammation has produced large, \nirregularly shaped ulcers that are separated \nfrom each other by mucosa that appears \nclose to normal. \n(skip Lesions)\nFissuring\nCobblestone Appearance\nCrohn’s Disease\nAll layers of intestinal wall show transmural \nchronic inflammatory cell infiltrate, lymphoid \naggregates and mild fibrosis. Few epithelioid \ngranuloma are seen.\nThe \ngranulomatous\n nature of the inflammation of \nCrohn's disease is demonstrated here with \nepithelioid\ncells, \ngiant\n cells, and \nlymphocytes\n. \nSpecial stains for organisms are \nnegative\n.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page31_img_105.png",
+          "xref": 240
+        },
+        {
+          "file": "data/images/page31_img_106.png",
+          "xref": 241
+        },
+        {
+          "file": "data/images/page31_img_107.png",
+          "xref": 242
+        },
+        {
+          "file": "data/images/page31_img_108.png",
+          "xref": 243
+        },
+        {
+          "file": "data/images/page31_img_109.png",
+          "xref": 244
+        },
+        {
+          "file": "data/images/page31_img_110.png",
+          "xref": 245
+        }
+      ],
+      "features": [
+        "Here the inflammation has produced large,",
+        "chronic inflammatory cell infiltrate, lymphoid",
+        "cells,  giant  cells, and  lymphocytes ."
+      ]
+    },
+    {
+      "pageNumber": 32,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "32"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n32\nUlcerative Colitis\nThe most intense inflammation \nbegins\n at the \nsigmoid\ncolon (Right) and extends \nupward\n and around to the \nascending colon. \nAt the lower left is the ileocecal valve with a portion \nof terminal ileum that is \nnot involved\n. \nPseudo-polyps\n are seen here in a severe case.\nThe remaining mucosa has been ulcerated \naway and is hyperemic.\nUlcerative Colitis\nThe inflammation is \nconfined to the mucosa\n. \nHere, the mucosa is eroded by an ulcer that \nundermines surrounding mucosa.\nCrypt abscesses\n (neutrophilic exudate is found in \nglandular lumens ) are typical histologic finding.\nThe submucosa: intense inflammation with \nplasma cells\n. \nThe glands: \ndepletion of goblet cells\n.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page32_img_111.png",
+          "xref": 249
+        },
+        {
+          "file": "data/images/page32_img_112.png",
+          "xref": 258
+        },
+        {
+          "file": "data/images/page32_img_113.png",
+          "xref": 250
+        },
+        {
+          "file": "data/images/page32_img_114.png",
+          "xref": 251
+        },
+        {
+          "file": "data/images/page32_img_115.png",
+          "xref": 252
+        },
+        {
+          "file": "data/images/page32_img_116.png",
+          "xref": 253
+        },
+        {
+          "file": "data/images/page32_img_117.png",
+          "xref": 254
+        },
+        {
+          "file": "data/images/page32_img_118.png",
+          "xref": 255
+        },
+        {
+          "file": "data/images/page32_img_119.png",
+          "xref": 256
+        },
+        {
+          "file": "data/images/page32_img_120.png",
+          "xref": 257
+        }
+      ],
+      "features": [
+        "Here, the mucosa is eroded by an ulcer that",
+        "The submucosa: intense inflammation with  plasma cells .",
+        "The glands:  depletion of goblet cells ."
+      ]
+    },
+    {
+      "pageNumber": 33,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "33"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n33\nUlcerative Colitis with Dysplasia\nOver time, there is a risk for adenocarcinoma with ulcerative colitis. \nHere, \nnormal\n glands are seen at the \nleft\n, but glands at the \nright\n have \ndysplasia\n.\nAdenomatous polyp of the colon\nMultiple adenomatous polyps of the cecum are seen \nhere in a case of \nfamilial adenomatous polyposis\n, \na genetic syndrome in which an abnormal genetic \nmutation leads to development of multiple neoplasms \nin the colon.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page33_img_121.png",
+          "xref": 262
+        },
+        {
+          "file": "data/images/page33_img_122.png",
+          "xref": 263
+        },
+        {
+          "file": "data/images/page33_img_123.png",
+          "xref": 264
+        },
+        {
+          "file": "data/images/page33_img_124.png",
+          "xref": 265
+        }
+      ],
+      "features": [
+        "Over time, there is a risk for adenocarcinoma with ulcerative colitis.",
+        "Here,  normal  glands are seen at the  left , but glands at the  right  have  dysplasia .",
+        "here in a case of  familial adenomatous polyposis ,"
+      ]
+    },
+    {
+      "pageNumber": 34,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "34"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n34\nAdenomatous polyp of the colon\nVillous adenomas \nmore aggressive than tubular adenomas. They have a \nHIGHER rate of developing into adenocarcinomas than \n“tubular”.\nTUBULAR adenoma \ncrowded dysplastic glands and chronic \ninflammation.\nAdenocarcinoma of the Colon\nThis is an adenocarcinoma arising in a villous adenoma. \nThe surface of the neoplasm is \npolypoid\n and \nreddish\n pink. \nHemorrhage from the surface of the tumor creates a positive stool.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page34_img_125.png",
+          "xref": 269
+        },
+        {
+          "file": "data/images/page34_img_126.png",
+          "xref": 270
+        },
+        {
+          "file": "data/images/page34_img_127.png",
+          "xref": 271
+        },
+        {
+          "file": "data/images/page34_img_128.png",
+          "xref": 272
+        },
+        {
+          "file": "data/images/page34_img_129.png",
+          "xref": 273
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Adenomatous polyp of the colon",
+        "Villous adenomas",
+        "more aggressive than tubular adenomas. They have a",
+        "HIGHER rate of developing into adenocarcinomas than",
+        "“tubular”.",
+        "TUBULAR adenoma",
+        "crowded dysplastic glands and chronic",
+        "inflammation.",
+        "Adenocarcinoma of the Colon",
+        "The surface of the neoplasm is",
+        "polypoid",
+        "and",
+        "reddish",
+        "pink."
+      ]
+    },
+    {
+      "pageNumber": 35,
+      "slideCandidates": [
+        "Male Genital system",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n35\nAdenocarcinoma of the Colon\nTumor consists of crowded irregular malignant acini \nseparated by thin fibro-vascular stroma.\nThe neoplastic glands of adenocarcinoma have \ncrowded nuclei with hyperchromatism\n and \npleomorphism\n. \nNo normal goblet cells\n are seen\nMale Genital system",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page35_img_130.png",
+          "xref": 277
+        },
+        {
+          "file": "data/images/page35_img_131.png",
+          "xref": 278
+        },
+        {
+          "file": "data/images/page35_img_132.png",
+          "xref": 279
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Adenocarcinoma of the Colon",
+        "Tumor consists of crowded irregular malignant acini",
+        "separated by thin fibro-vascular stroma.",
+        "The neoplastic glands of adenocarcinoma have",
+        "crowded nuclei with hyperchromatism",
+        "and",
+        "pleomorphism",
+        "No normal goblet cells",
+        "are seen",
+        "Male Genital system"
+      ]
+    },
+    {
+      "pageNumber": 36,
+      "slideCandidates": [
+        "Testicular Atrophy",
+        "Testicular  Torsion",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n36\nMarked\n \nloss\n \nof\n \ngerm\n \ncells\n \nwith\n \nremaining\n \ntall\n \npink\n \nSertoli\n \ncells,\n \nperitubular\n \nfibrosis,\n \nand\ninterstitial fibrosis. If generalized, this is a cause for infertility.  \nTesticular Atrophy\n \nThis testis has undergone infarction following testicular torsion.\nTorsion is an uncommon condition, but a medical\n \nemergency. It occurs when twisting of\nthe spermatic cord cuts off the venous drainage, leading to hemorrhagic infarction.\n \n \nTesticular  Torsion",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page36_img_133.png",
+          "xref": 283
+        },
+        {
+          "file": "data/images/page36_img_134.png",
+          "xref": 284
+        }
+      ],
+      "features": [
+        "Marked   loss   of   germ   cells   with   remaining   tall   pink   Sertoli   cells,   peritubular   fibrosis,   and",
+        "interstitial fibrosis. If generalized, this is a cause for infertility.",
+        "Torsion is an uncommon condition, but a medical   emergency. It occurs when twisting of",
+        "the spermatic cord cuts off the venous drainage, leading to hemorrhagic infarction."
+      ]
+    },
+    {
+      "pageNumber": 37,
+      "slideCandidates": [
+        "Seminomas (Germ cell Tumor)",
+        "Seminomas",
+        "Large, Soft. Well demarcated, Gray-white tumour. Usually homogeneous."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n37\nSeminomas (Germ cell Tumor)\n \nLarge, Soft. Well demarcated, Gray-white tumour. Usually homogeneous.\nSeminomas\n \nLarge cells with  Distinct cell borders.  Clear (glycogen rich) cytoplasm, Rounded nuclei with nucleoli.\nThe cells are often arranged in small lobule, separated by fibrous septa.\nLymphocytic infiltrated is usually present and may form granuloma",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page37_img_135.png",
+          "xref": 288
+        },
+        {
+          "file": "data/images/page37_img_136.png",
+          "xref": 289
+        },
+        {
+          "file": "data/images/page37_img_137.png",
+          "xref": 290
+        }
+      ],
+      "features": [
+        "Large, Soft. Well demarcated, Gray-white tumour. Usually homogeneous.",
+        "Large cells with  Distinct cell borders.  Clear (glycogen rich) cytoplasm, Rounded nuclei with nucleoli.",
+        "The cells are often arranged in small lobule, separated by fibrous septa."
+      ]
+    },
+    {
+      "pageNumber": 38,
+      "slideCandidates": [
+        "Benign prostatic",
+        "hyperplasia",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n38\nEnlarged irregular prostate. The cut surface contain multiple well circumscribed nodules.\nThe nodule can be solid or cystic.  \nBenign prostatic \nhyperplasia\nProliferation of the gland and fibromuscular stroma. \nCrowding of the epithelial cells → papillary projections.\nThe lumen shows corpora amylacea.\nBenign prostatic \nhyperplasia",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page38_img_138.png",
+          "xref": 294
+        },
+        {
+          "file": "data/images/page38_img_139.png",
+          "xref": 295
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "The nodule can be solid or cystic.",
+        "Benign prostatic",
+        "hyperplasia",
+        "Proliferation of the gland and fibromuscular stroma.",
+        "Crowding of the epithelial cells → papillary projections.",
+        "The lumen shows corpora amylacea.",
+        "Benign prostatic",
+        "hyperplasia"
+      ]
+    },
+    {
+      "pageNumber": 39,
+      "slideCandidates": [
+        "Adenocarcinoma",
+        "of the prostate",
+        "Adenocarcinoma of the prostate"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n39\nAdenocarcinoma \nof the prostate \nCut section : firm, gray white to yellow., infiltrating adjacent gland, ill-defined margin.\nWell-differentiated carcinoma:\nSmall glands infiltrating the stroma. Back to back glands not encircled by stroma.\nThe neoplastic gland are single layer of cuboidal cells with absence of the basal cells.\nAdenocarcinoma of the prostate",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page39_img_140.png",
+          "xref": 299
+        },
+        {
+          "file": "data/images/page39_img_141.png",
+          "xref": 300
+        }
+      ],
+      "features": [
+        "Cut section : firm, gray white to yellow., infiltrating adjacent gland, ill-defined margin.",
+        "Well-differentiated carcinoma:"
+      ]
+    },
+    {
+      "pageNumber": 40,
+      "slideCandidates": [
+        "Female Genital System",
+        "Condyloma accuminatum",
+        "Gross"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n40\nFemale Genital System\nCondyloma accuminatum\nDue to human papillomavirus \n(HPV 6 - 11).\nBenign but may be precancerous.\nGross\nwart",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page40_img_142.png",
+          "xref": 304
+        },
+        {
+          "file": "data/images/page40_img_143.png",
+          "xref": 305
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Female Genital System",
+        "Condyloma accuminatum",
+        "Due to human papillomavirus",
+        "(HPV 6 - 11).",
+        "Benign but may be precancerous.",
+        "Gross",
+        "wart"
+      ]
+    },
+    {
+      "pageNumber": 41,
+      "slideCandidates": [
+        "Cervicitis",
+        "Condyloma accuminatum",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n41\nCondyloma accuminatum\n•\n \nPapillomatous proliferating squamous epithelium.\n•\n \nKoilocytosis (halo cells):\nNuclear enlargement, irregular nuclear membrane, hyperchromatosis, perinuclear halo. \nCervicitis\n \nChronic cervicitis \nChronic inflammatory cells infiltration, Nabothian cysts (mucus-filled cyst).\nEndocervix squamous metaplasia.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page41_img_144.png",
+          "xref": 309
+        },
+        {
+          "file": "data/images/page41_img_145.png",
+          "xref": 310
+        },
+        {
+          "file": "data/images/page41_img_146.png",
+          "xref": 311
+        },
+        {
+          "file": "data/images/page41_img_147.png",
+          "xref": 312
+        },
+        {
+          "file": "data/images/page41_img_148.png",
+          "xref": 313
+        },
+        {
+          "file": "data/images/page41_img_149.png",
+          "xref": 314
+        },
+        {
+          "file": "data/images/page41_img_150.png",
+          "xref": 315
+        }
+      ],
+      "features": [
+        "•   Papillomatous proliferating squamous epithelium.",
+        "•   Koilocytosis (halo cells):",
+        "Nuclear enlargement, irregular nuclear membrane, hyperchromatosis, perinuclear halo.",
+        "Chronic cervicitis  Chronic inflammatory cells infiltration, Nabothian cysts (mucus-filled cyst)."
+      ]
+    },
+    {
+      "pageNumber": 42,
+      "slideCandidates": [
+        "Endocervical polyp",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n42\nEndocervical polyp\n \nPolypoid protruding  mass, Soft, Covered by \nsmooth glistening surface.\nMicroscopic:\n•\n \nDilated endocervial glands.\n•\n \nCongested stroma\n•\n \nInflammatory cells +/-\nEndocervical polyp\n \nMicroscopic:\n•\n \nDilated endocervial glands.\n•\n \nCongested stroma\n•\n \nInflammatory cells +/-",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page42_img_151.png",
+          "xref": 319
+        },
+        {
+          "file": "data/images/page42_img_152.png",
+          "xref": 320
+        },
+        {
+          "file": "data/images/page42_img_153.png",
+          "xref": 321
+        },
+        {
+          "file": "data/images/page42_img_154.png",
+          "xref": 322
+        },
+        {
+          "file": "data/images/page42_img_155.png",
+          "xref": 323
+        }
+      ],
+      "features": [
+        "Polypoid protruding  mass, Soft, Covered by",
+        "Microscopic:",
+        "•   Dilated endocervial glands.",
+        "•   Congested stroma",
+        "•   Inflammatory cells +/-",
+        "Microscopic:",
+        "•   Dilated endocervial glands.",
+        "•   Congested stroma",
+        "•   Inflammatory cells +/-"
+      ]
+    },
+    {
+      "pageNumber": 43,
+      "slideCandidates": [
+        "Adenomyosis",
+        "Endometriosis (Endometriosis externa)",
+        "Microscopic"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n43\nAdenomyosis\nMicroscopic\n•\n \nEndometrial glands & stroma within myometrium.\n•\n \nBlood within glands +/-\n•\n \nHemosiderin-laden macrophages (chronic \ncongestion and hemorrhage).\nEndometriosis (Endometriosis externa)\nRed-blue to yellow brown nodules due \nto blood collection in these foci.\nIn the ovary: the lesion is large, blood filled cyst \ncalled \nchocolate cysts\n (old blood).",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page43_img_156.png",
+          "xref": 327
+        },
+        {
+          "file": "data/images/page43_img_157.png",
+          "xref": 328
+        },
+        {
+          "file": "data/images/page43_img_158.png",
+          "xref": 329
+        }
+      ],
+      "features": [
+        "•   Endometrial glands & stroma within myometrium.",
+        "•   Blood within glands +/-",
+        "•   Hemosiderin-laden macrophages (chronic",
+        "In the ovary: the lesion is large, blood filled cyst"
+      ]
+    },
+    {
+      "pageNumber": 44,
+      "slideCandidates": [
+        "Endometriosis",
+        "Endometriosis (Endometriosis externa)",
+        "Endometrial glands ("
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n44\nEndometriosis (Endometriosis externa)\n \na small cluster of endometrial glands and stroma with hemorrhage are seen at the left \nnear the surface of the fallopian tube. The lumen of the tube is at the right. \nEndometriosis\n\nEndometrial glands (\nG\n)\n\nEndometrial stroma (\nS\n)\n\nHemosiderin-laden macrophages (\nM\n)",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page44_img_159.png",
+          "xref": 333
+        },
+        {
+          "file": "data/images/page44_img_160.png",
+          "xref": 342
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Endometriosis (Endometriosis externa)",
+        "Endometriosis",
+        "Endometrial glands (",
+        "Endometrial stroma (",
+        "Hemosiderin-laden macrophages ("
+      ]
+    },
+    {
+      "pageNumber": 45,
+      "slideCandidates": [
+        "Simple cystic endometrium hyperplasia",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n45\nSimple cystic endometrium hyperplasia\n•\n \nIrregular dilated glands (G)\n•\n \nVariation of gland size\n•\n \nCysts (C)\n•\n \nAtypia (-)\n•\n \nSimple end. hyperplasia \nwithout atypia\nSimple cystic endometrium hyperplasia\n•\n \nIrregular dilated glands (G)\n•\n \nVariation of gland size\n•\n \nCysts (C)\n•\n \nAtypia (+)\n•\n \nSimple end. hyperplasia with \natypia",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page45_img_161.png",
+          "xref": 346
+        },
+        {
+          "file": "data/images/page45_img_162.png",
+          "xref": 347
+        },
+        {
+          "file": "data/images/page45_img_163.png",
+          "xref": 348
+        },
+        {
+          "file": "data/images/page45_img_164.png",
+          "xref": 349
+        }
+      ],
+      "features": [
+        "•   Irregular dilated glands (G)",
+        "•   Variation of gland size",
+        "•   Cysts (C)",
+        "•   Atypia (-)",
+        "•   Simple end. hyperplasia",
+        "•   Irregular dilated glands (G)",
+        "•   Variation of gland size",
+        "•   Cysts (C)",
+        "•   Atypia (+)",
+        "•   Simple end. hyperplasia with"
+      ]
+    },
+    {
+      "pageNumber": 46,
+      "slideCandidates": [
+        "Complex endometrium hyperplasia",
+        "Microscopic:",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n46\nComplex endometrium hyperplasia\nMicroscopic:\n•\n \nIncrease in size & endometrium \nglands\n•\n \nIrregular glands with Budding \n•\n \nAtypia (-)\n•\n \ncomplex end. hyperplasia \nwithout atypia\nComplex endometrium hyperplasia\nMicroscopic:\n•\n \nIncrease in size & endometrium \nglands\n•\n \nIrregular glands with Budding \n•\n \nAtypia (+)\n•\n \ncomplex end. hyperplasia with \natypia",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page46_img_165.png",
+          "xref": 353
+        },
+        {
+          "file": "data/images/page46_img_166.png",
+          "xref": 354
+        },
+        {
+          "file": "data/images/page46_img_167.png",
+          "xref": 355
+        },
+        {
+          "file": "data/images/page46_img_168.png",
+          "xref": 356
+        },
+        {
+          "file": "data/images/page46_img_169.png",
+          "xref": 357
+        }
+      ],
+      "features": [
+        "Microscopic:",
+        "•   Increase in size & endometrium",
+        "•   Irregular glands with Budding",
+        "•   Atypia (-)",
+        "•   complex end. hyperplasia",
+        "Microscopic:",
+        "•   Increase in size & endometrium",
+        "•   Irregular glands with Budding",
+        "•   Atypia (+)",
+        "•   complex end. hyperplasia with"
+      ]
+    },
+    {
+      "pageNumber": 47,
+      "slideCandidates": [
+        "Endometrium polyp",
+        "Leiomyoma",
+        "Gross"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n47\nEndometrium polyp\nGross:\n•\n \nPolypoid mass in the endometrial cavity\n•\n \nMeasured up to 10 cm.\nMicroscopic\n•\n \nLarge blood vessels \n•\n \nFibrotic stroma \n•\n \nProliferative endometrial glands\n•\n \nCystic dilated glands\nLeiomyoma\nGross\n•\n \nAsymmetric uterus enlargement.\n•\n \nSolitary or multiple.\n•\n \nSite: submucous, interstitial and subserous.\n•\n \nC/S:\n white whirly appearance",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page47_img_170.png",
+          "xref": 361
+        },
+        {
+          "file": "data/images/page47_img_171.png",
+          "xref": 362
+        },
+        {
+          "file": "data/images/page47_img_172.png",
+          "xref": 363
+        },
+        {
+          "file": "data/images/page47_img_173.png",
+          "xref": 364
+        },
+        {
+          "file": "data/images/page47_img_174.png",
+          "xref": 365
+        }
+      ],
+      "features": [
+        "Gross:",
+        "•   Polypoid mass in the endometrial cavity",
+        "•   Measured up to 10 cm.",
+        "•   Large blood vessels",
+        "•   Fibrotic stroma",
+        "•   Proliferative endometrial glands",
+        "•   Cystic dilated glands",
+        "•   Asymmetric uterus enlargement.",
+        "•   Solitary or multiple.",
+        "•   Site: submucous, interstitial and subserous.",
+        "•   C/S:  white whirly appearance"
+      ]
+    },
+    {
+      "pageNumber": 48,
+      "slideCandidates": [
+        "Leiomyoma",
+        "Leimyosarcoma",
+        "Gross:"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n48\nLeiomyoma\nMicroscopic >>>\n•\n \nWell defined nodule\nInterlacing bundles of smooth muscle fibers \nLeimyosarcoma\nGross:\n•\n Large uterus\n•\n Polypoid mass\n•\n Necrosis\n•\n hemorrhage",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page48_img_175.png",
+          "xref": 369
+        },
+        {
+          "file": "data/images/page48_img_176.png",
+          "xref": 378
+        },
+        {
+          "file": "data/images/page48_img_177.png",
+          "xref": 379
+        },
+        {
+          "file": "data/images/page48_img_178.png",
+          "xref": 380
+        },
+        {
+          "file": "data/images/page48_img_179.png",
+          "xref": 381
+        },
+        {
+          "file": "data/images/page48_img_180.png",
+          "xref": 382
+        },
+        {
+          "file": "data/images/page48_img_181.png",
+          "xref": 383
+        },
+        {
+          "file": "data/images/page48_img_182.png",
+          "xref": 384
+        },
+        {
+          "file": "data/images/page48_img_183.png",
+          "xref": 385
+        },
+        {
+          "file": "data/images/page48_img_184.png",
+          "xref": 386
+        },
+        {
+          "file": "data/images/page48_img_185.png",
+          "xref": 387
+        },
+        {
+          "file": "data/images/page48_img_186.png",
+          "xref": 370
+        },
+        {
+          "file": "data/images/page48_img_187.png",
+          "xref": 388
+        },
+        {
+          "file": "data/images/page48_img_188.png",
+          "xref": 389
+        },
+        {
+          "file": "data/images/page48_img_189.png",
+          "xref": 390
+        },
+        {
+          "file": "data/images/page48_img_190.png",
+          "xref": 391
+        },
+        {
+          "file": "data/images/page48_img_191.png",
+          "xref": 392
+        },
+        {
+          "file": "data/images/page48_img_192.png",
+          "xref": 393
+        },
+        {
+          "file": "data/images/page48_img_193.png",
+          "xref": 394
+        },
+        {
+          "file": "data/images/page48_img_194.png",
+          "xref": 395
+        },
+        {
+          "file": "data/images/page48_img_195.png",
+          "xref": 396
+        },
+        {
+          "file": "data/images/page48_img_196.png",
+          "xref": 397
+        },
+        {
+          "file": "data/images/page48_img_197.png",
+          "xref": 371
+        },
+        {
+          "file": "data/images/page48_img_198.png",
+          "xref": 398
+        },
+        {
+          "file": "data/images/page48_img_199.png",
+          "xref": 399
+        },
+        {
+          "file": "data/images/page48_img_200.png",
+          "xref": 400
+        },
+        {
+          "file": "data/images/page48_img_201.png",
+          "xref": 401
+        },
+        {
+          "file": "data/images/page48_img_202.png",
+          "xref": 402
+        },
+        {
+          "file": "data/images/page48_img_203.png",
+          "xref": 372
+        },
+        {
+          "file": "data/images/page48_img_204.png",
+          "xref": 373
+        },
+        {
+          "file": "data/images/page48_img_205.png",
+          "xref": 374
+        },
+        {
+          "file": "data/images/page48_img_206.png",
+          "xref": 375
+        },
+        {
+          "file": "data/images/page48_img_207.png",
+          "xref": 376
+        },
+        {
+          "file": "data/images/page48_img_208.png",
+          "xref": 377
+        }
+      ],
+      "features": [
+        "•   Well defined nodule",
+        "Gross:",
+        "•  Large uterus",
+        "•  Polypoid mass",
+        "•  Necrosis",
+        "•  hemorrhage"
+      ]
+    },
+    {
+      "pageNumber": 49,
+      "slideCandidates": [
+        "Leimyosarcoma",
+        "Serous tumors",
+        "Microscopic:"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n49\nLeimyosarcoma\nMicroscopic:\n1.\n \nUgly cytological features\n2.\n \nAtypical mitosis\nSerous tumors \nBilateral\n & benign.\nUsually small (5-10 cm) \nsometimes large (up to 40 cm) in diameter, \ncystic (so called cystadenoma, \nsystadenocarcinoma),\nFilled with serous fluid.\nThe lining epithelium is smooth.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page49_img_209.png",
+          "xref": 406
+        },
+        {
+          "file": "data/images/page49_img_210.png",
+          "xref": 407
+        },
+        {
+          "file": "data/images/page49_img_211.png",
+          "xref": 408
+        }
+      ],
+      "features": [
+        "Microscopic:",
+        "sometimes large (up to 40 cm) in diameter,",
+        "cystic (so called cystadenoma,",
+        "systadenocarcinoma),"
+      ]
+    },
+    {
+      "pageNumber": 50,
+      "slideCandidates": [
+        "Mucinous tumors",
+        "Serous tumors",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n50\nSerous tumors \nBenign tumors:\n Lined by single layer of columnar layer partially ciliated and partially secretory, \npapilated, psamoma bodies may be seen in the papillae.\nMucinous tumors \nGross: Unilateral\n, huge size, Usually cystic (rarely solid),  Filled with bluish mucinous material\nMicroscopic:\n The lining epithelium is single layer of tall columnar epithelium that shows apical \nvaculation and absence of cilia, with rare papillae.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page50_img_212.png",
+          "xref": 412
+        },
+        {
+          "file": "data/images/page50_img_213.png",
+          "xref": 413
+        },
+        {
+          "file": "data/images/page50_img_214.png",
+          "xref": 414
+        }
+      ],
+      "features": [
+        "Benign tumors:  Lined by single layer of columnar layer partially ciliated and partially secretory,",
+        "papilated, psamoma bodies may be seen in the papillae.",
+        "Gross: Unilateral , huge size, Usually cystic (rarely solid),  Filled with bluish mucinous material",
+        "Microscopic:  The lining epithelium is single layer of tall columnar epithelium that shows apical",
+        "vaculation and absence of cilia, with rare papillae."
+      ]
+    },
+    {
+      "pageNumber": 51,
+      "slideCandidates": [
+        "Benign (mature) cystic teratoma",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n51\nBenign (mature) cystic teratoma\nUnilateral\n 90% of cases.\nCystic.\nRarely exceed 10 cm in diameter.\nCut section Filled with sebaceous \nsecretion and may show hair. \nSometimes teeth protrude.\nBenign (mature) cystic teratoma\n \nThe cyst lined by stratified squamous epithelium with sebaceous gland and hair follicles, \nSometimes, bone, cartilage, teeth thyroid … etc. all of these tissues are mature.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page51_img_215.png",
+          "xref": 418
+        },
+        {
+          "file": "data/images/page51_img_216.png",
+          "xref": 419
+        }
+      ],
+      "features": [
+        "The cyst lined by stratified squamous epithelium with sebaceous gland and hair follicles,",
+        "Sometimes, bone, cartilage, teeth thyroid … etc. all of these tissues are mature."
+      ]
+    },
+    {
+      "pageNumber": 52,
+      "slideCandidates": [
+        "Breast",
+        "Granulosa stromal tumor",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n52\nGranulosa stromal tumor\n \nSheets or cords of tumor cells, Small cuboidal to polygonal cell with coffee been nuclei, \nGland-like structures filled with acidophilic material (Call-Exner bodies).\nBreast",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page52_img_217.png",
+          "xref": 423
+        }
+      ],
+      "features": [
+        "Sheets or cords of tumor cells, Small cuboidal to polygonal cell with coffee been nuclei,"
+      ]
+    },
+    {
+      "pageNumber": 53,
+      "slideCandidates": [
+        "Granulomatous Mastitis",
+        "FIBROCYSTIC DISEASES",
+        "Giant cells"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n53\nGranulomatous Mastitis\nGiant cells\nEpitheliod cells\nWhat else?\nFIBROCYSTIC DISEASES\nintracystic papillary structure\nApocrine metaplasia\nhyperplasia\nFIBROCYSTIC DISEASES",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page53_img_218.png",
+          "xref": 427
+        },
+        {
+          "file": "data/images/page53_img_219.png",
+          "xref": 428
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Granulomatous Mastitis",
+        "Giant cells",
+        "Epitheliod cells",
+        "What else?",
+        "FIBROCYSTIC DISEASES",
+        "intracystic papillary structure",
+        "Apocrine metaplasia",
+        "hyperplasia",
+        "FIBROCYSTIC DISEASES"
+      ]
+    },
+    {
+      "pageNumber": 54,
+      "slideCandidates": [
+        "FIBROADENOMA",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n54\nFIBROADENOMA\nGross\n•\n \nFirm non attached to skin \n(mobile)\n•\n \nCapsulated\n•\n \nSmall to large size 3-20 cm in diameter.\n•\n \nC/S\n: white to yellow surface.\nunilateral\nwomen between the ages of 15 and 35\nConvert to malignancy...very rare.\nFIBROADENOMA\nMicroscopic \n\nBiphasic (Fibro-epithelial) \ntumor \nwith capsule\n.\n\nFormed of \nducts \nand \nstroma\n.\n\nDucts lined by double epithelium.\n\nStroma shows cellular hyperplasia.\n\nOther stroma componentes +/- :\n-\nPercanalicular pattern.\n-\nIntracanalicular pattern.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page54_img_220.png",
+          "xref": 432
+        },
+        {
+          "file": "data/images/page54_img_221.png",
+          "xref": 433
+        },
+        {
+          "file": "data/images/page54_img_222.png",
+          "xref": 434
+        },
+        {
+          "file": "data/images/page54_img_223.png",
+          "xref": 435
+        },
+        {
+          "file": "data/images/page54_img_224.png",
+          "xref": 436
+        },
+        {
+          "file": "data/images/page54_img_225.png",
+          "xref": 437
+        }
+      ],
+      "features": [
+        "•   Firm non attached to skin  (mobile)",
+        "•   Capsulated",
+        "•   Small to large size 3-20 cm in diameter.",
+        "•   C/S : white to yellow surface.",
+        " Other stroma componentes +/- :",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "pageNumber": 55,
+      "slideCandidates": [
+        "FIBROADENOMA",
+        "PHYLLOID TUMOR",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n55\nFIBROADENOMA\n1. Intracanalicular pattern. (In):\nThe stroma compresses and distorts \nthe glands into cleft-like spaces in \nthe intracanalicular pattern.\n2. Percanalicular pattern. (P):\nThe stroma surrounds the glands, \nwithout distorting them, and the \nglands maintain their open lumens in \nthe pericanalicular pattern.\n3. Fibrous tissue (F)\nPHYLLOID TUMOR\n•\n \nOne of the breast stromal tumor.\n•\n \nUsually it's unilateral\n•\n \nBloody nipple discharge.\nGross\nWell formed mass with capsule. Firm.\nC/S:\n shows leaf-like appearance.\nWhite to yellow appearance. Necrosis +/-",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page55_img_226.png",
+          "xref": 441
+        },
+        {
+          "file": "data/images/page55_img_227.png",
+          "xref": 442
+        },
+        {
+          "file": "data/images/page55_img_228.png",
+          "xref": 443
+        },
+        {
+          "file": "data/images/page55_img_229.png",
+          "xref": 444
+        },
+        {
+          "file": "data/images/page55_img_230.png",
+          "xref": 445
+        },
+        {
+          "file": "data/images/page55_img_231.png",
+          "xref": 446
+        }
+      ],
+      "features": [
+        "1. Intracanalicular pattern. (In):",
+        "2. Percanalicular pattern. (P):",
+        "The stroma surrounds the glands,",
+        "without distorting them, and the",
+        "•   One of the breast stromal tumor.",
+        "•   Usually it's unilateral",
+        "•   Bloody nipple discharge.",
+        "C/S:  shows leaf-like appearance."
+      ]
+    },
+    {
+      "pageNumber": 56,
+      "slideCandidates": [
+        "PHYLLOID TUMOR",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n56\nPHYLLOID TUMOR\nMicroscopic\n•\n \nBiphasic tumor\n•\n \nDucts are compressed to \ncysts\n•\n \nLined by double layer of cells.\n•\n \nInvagination of ducts.\n•\n \nStroma shows \nspindle cells hyperplasia\n.\n•\n \nMetaplastic stroma +/-\nPHYLLOID TUMOR\n-\nMalignant! (cystosarcoma)\n-\nSpindle cells\n-\nPleomorphism\n-\nHyperchromatic nuclei\n-\nmitosis",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page56_img_232.png",
+          "xref": 450
+        },
+        {
+          "file": "data/images/page56_img_233.png",
+          "xref": 451
+        },
+        {
+          "file": "data/images/page56_img_234.png",
+          "xref": 452
+        },
+        {
+          "file": "data/images/page56_img_235.png",
+          "xref": 453
+        }
+      ],
+      "features": [
+        "•   Biphasic tumor",
+        "•   Ducts are compressed to  cysts",
+        "•   Lined by double layer of cells.",
+        "•   Invagination of ducts.",
+        "•   Stroma shows  spindle cells hyperplasia .",
+        "•   Metaplastic stroma +/-",
+        "- Malignant! (cystosarcoma)",
+        "- Spindle cells",
+        "- Pleomorphism",
+        "- Hyperchromatic nuclei",
+        "- mitosis"
+      ]
+    },
+    {
+      "pageNumber": 57,
+      "slideCandidates": [
+        "INTRADUCTAL PAPILLOMA",
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n57\nINTRADUCTAL PAPILLOMA\nGross\n•\n \nSmall\n nodules not excessed 3cm in diameter.\n•\n \nC/S:\n shows cyst with intra lumen projecting \nmass (Cauliflower appearance).\nMicroscopic\n•\n \nIntracystic papillary growth\n (Arborescent \nstructures)\n•\n \nLined by double epithelium:\n- outer Myoepithelial cells \n- inner epithelial cells.\nDuctal Carcinoma In Situ (DCIS)\nTypes\n1.\n \nSolid.\n2.\n \nCribriform \n(necrosis)\n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page57_img_236.png",
+          "xref": 457
+        },
+        {
+          "file": "data/images/page57_img_237.png",
+          "xref": 458
+        },
+        {
+          "file": "data/images/page57_img_238.png",
+          "xref": 459
+        },
+        {
+          "file": "data/images/page57_img_239.png",
+          "xref": 460
+        },
+        {
+          "file": "data/images/page57_img_240.png",
+          "xref": 461
+        }
+      ],
+      "features": [
+        "•   Small  nodules not excessed 3cm in diameter.",
+        "•   C/S:  shows cyst with intra lumen projecting",
+        "•   Intracystic papillary growth  (Arborescent",
+        "•   Lined by double epithelium:",
+        "- outer Myoepithelial cells",
+        "- inner epithelial cells."
+      ]
+    },
+    {
+      "pageNumber": 58,
+      "slideCandidates": [
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types",
+        "Cribriform"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n58\nTypes\n1.\n \nSolid.\n2.\n \nCribriform \n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo\nDuctal Carcinoma In Situ (DCIS)\nTypes\n1.\n \nSolid.\n2.\n \nCribriform\n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo\nDuctal Carcinoma In Situ (DCIS)",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page58_img_241.png",
+          "xref": 465
+        },
+        {
+          "file": "data/images/page58_img_242.png",
+          "xref": 466
+        },
+        {
+          "file": "data/images/page58_img_243.png",
+          "xref": 467
+        },
+        {
+          "file": "data/images/page58_img_244.png",
+          "xref": 468
+        },
+        {
+          "file": "data/images/page58_img_245.png",
+          "xref": 469
+        },
+        {
+          "file": "data/images/page58_img_246.png",
+          "xref": 470
+        },
+        {
+          "file": "data/images/page58_img_247.png",
+          "xref": 471
+        },
+        {
+          "file": "data/images/page58_img_248.png",
+          "xref": 472
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Types",
+        "Solid.",
+        "Cribriform",
+        "Micropapillary.",
+        "Flat.",
+        "Clear cells",
+        "Apocrine",
+        "Comedo",
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types",
+        "Solid.",
+        "Cribriform",
+        "Micropapillary.",
+        "Flat.",
+        "Clear cells",
+        "Apocrine",
+        "Comedo",
+        "Ductal Carcinoma In Situ (DCIS)"
+      ]
+    },
+    {
+      "pageNumber": 59,
+      "slideCandidates": [
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types",
+        "Flat."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n59\nTypes\n1.\n \nSolid.\n2.\n \nCribriform\n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo\nDuctal Carcinoma In Situ (DCIS)\nTypes\n1.\n \nSolid.\n2.\n \nCribriform\n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo\nDuctal Carcinoma In Situ (DCIS)",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page59_img_249.png",
+          "xref": 476
+        },
+        {
+          "file": "data/images/page59_img_250.png",
+          "xref": 477
+        },
+        {
+          "file": "data/images/page59_img_251.png",
+          "xref": 478
+        },
+        {
+          "file": "data/images/page59_img_252.png",
+          "xref": 479
+        },
+        {
+          "file": "data/images/page59_img_253.png",
+          "xref": 480
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Types",
+        "Solid.",
+        "Cribriform",
+        "Micropapillary.",
+        "Flat.",
+        "Clear cells",
+        "Apocrine",
+        "Comedo",
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types",
+        "Solid.",
+        "Cribriform",
+        "Micropapillary.",
+        "Flat.",
+        "Clear cells",
+        "Apocrine",
+        "Comedo",
+        "Ductal Carcinoma In Situ (DCIS)"
+      ]
+    },
+    {
+      "pageNumber": 60,
+      "slideCandidates": [
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types",
+        "Apocrine"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n60\nTypes\n1.\n \nSolid.\n2.\n \nCribriform\n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo\nDuctal Carcinoma In Situ (DCIS)\nTypes\n1.\n \nSolid.\n2.\n \nCribriform\n3.\n \nMicropapillary.\n4.\n \nFlat.\n5.\n \nClear cells\n6.\n \nApocrine\n7.\n \nComedo\nDuctal Carcinoma In Situ (DCIS)",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page60_img_254.png",
+          "xref": 484
+        },
+        {
+          "file": "data/images/page60_img_255.png",
+          "xref": 485
+        },
+        {
+          "file": "data/images/page60_img_256.png",
+          "xref": 486
+        },
+        {
+          "file": "data/images/page60_img_257.png",
+          "xref": 487
+        },
+        {
+          "file": "data/images/page60_img_258.png",
+          "xref": 488
+        },
+        {
+          "file": "data/images/page60_img_259.png",
+          "xref": 489
+        },
+        {
+          "file": "data/images/page60_img_260.png",
+          "xref": 490
+        }
+      ],
+      "features": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "Types",
+        "Solid.",
+        "Cribriform",
+        "Micropapillary.",
+        "Flat.",
+        "Clear cells",
+        "Apocrine",
+        "Comedo",
+        "Ductal Carcinoma In Situ (DCIS)",
+        "Types",
+        "Solid.",
+        "Cribriform",
+        "Micropapillary.",
+        "Flat.",
+        "Clear cells",
+        "Apocrine",
+        "Comedo",
+        "Ductal Carcinoma In Situ (DCIS)"
+      ]
+    },
+    {
+      "pageNumber": 61,
+      "slideCandidates": [
+        "Invasive Ductal Carcinoma(IDC)",
+        "Grades:",
+        "1.Well differentiated."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n61\nInvasive Ductal Carcinoma(IDC)\n•\n \nInvading basement membrane into the stroma.\n•\n \nNo Myoepithelial cells.\n•\n \nRepresent 90% of breast carcinoma.\nGrades:\n1.Well differentiated.\n2.Moderate differentiated.\n3.Poor differentiated.\nDepends on score of  3-9/9\n•\n TUBULE (duct) 3 \n•\n NUCLEAR PLEOMORPHISM 3\n•\n MITOSIS 3\nInvasive Ductal Carcinoma(IDC)\nMicroscopic Features >>>>\n•\n \nIrregular ducts infiltrating stroma\n•\n \nOne layer atypical epithelial cells\n<<<<< Microscopic Features\n•\n \nCellular Pleomorphism\n•\n \nMitosis\n•\n \nHyperchromatic nulcei",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page61_img_261.png",
+          "xref": 494
+        },
+        {
+          "file": "data/images/page61_img_262.png",
+          "xref": 495
+        },
+        {
+          "file": "data/images/page61_img_263.png",
+          "xref": 496
+        },
+        {
+          "file": "data/images/page61_img_264.png",
+          "xref": 497
+        },
+        {
+          "file": "data/images/page61_img_265.png",
+          "xref": 498
+        },
+        {
+          "file": "data/images/page61_img_266.png",
+          "xref": 499
+        },
+        {
+          "file": "data/images/page61_img_267.png",
+          "xref": 500
+        },
+        {
+          "file": "data/images/page61_img_268.png",
+          "xref": 501
+        },
+        {
+          "file": "data/images/page61_img_269.png",
+          "xref": 502
+        }
+      ],
+      "features": [
+        "•   Invading basement membrane into the stroma.",
+        "•   No Myoepithelial cells.",
+        "•   Represent 90% of breast carcinoma.",
+        "Grades:",
+        "•  TUBULE (duct) 3",
+        "•  NUCLEAR PLEOMORPHISM 3",
+        "•  MITOSIS 3",
+        "•   Irregular ducts infiltrating stroma",
+        "•   One layer atypical epithelial cells",
+        "•   Cellular Pleomorphism",
+        "•   Mitosis",
+        "•   Hyperchromatic nulcei"
+      ]
+    },
+    {
+      "pageNumber": 62,
+      "slideCandidates": [
+        "Lobular Carcinoma In Situ (LCIS)",
+        "Invasive Lobular Carcinoma(ILC)",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n62\nLobular Carcinoma In Situ (LCIS)\n•\n \nIt's malignant growth within terminal ductal \nLobular unit.\n•\n \nNot invading basement membrane into the \nstroma.\n•\n \nMonomorphic round tumor cells\nwith \nindistinct cell membrane\n.\n•\n \nNo necrosis or calcification.\nInvasive Lobular Carcinoma(ILC)\n•\n \nAssociated usually with LCIS.\n•\n \nFormed of small tumor cells arranged singly in cord-like \n(\nIndian file pattern\n) Spot diagnosis\n•\n \nTumor cells show minimal atypia.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page62_img_270.png",
+          "xref": 506
+        },
+        {
+          "file": "data/images/page62_img_271.png",
+          "xref": 515
+        },
+        {
+          "file": "data/images/page62_img_272.png",
+          "xref": 516
+        },
+        {
+          "file": "data/images/page62_img_273.png",
+          "xref": 517
+        },
+        {
+          "file": "data/images/page62_img_274.png",
+          "xref": 518
+        },
+        {
+          "file": "data/images/page62_img_275.png",
+          "xref": 519
+        },
+        {
+          "file": "data/images/page62_img_276.png",
+          "xref": 520
+        },
+        {
+          "file": "data/images/page62_img_277.png",
+          "xref": 521
+        },
+        {
+          "file": "data/images/page62_img_278.png",
+          "xref": 522
+        },
+        {
+          "file": "data/images/page62_img_279.png",
+          "xref": 523
+        },
+        {
+          "file": "data/images/page62_img_280.png",
+          "xref": 524
+        },
+        {
+          "file": "data/images/page62_img_281.png",
+          "xref": 507
+        },
+        {
+          "file": "data/images/page62_img_282.png",
+          "xref": 525
+        },
+        {
+          "file": "data/images/page62_img_283.png",
+          "xref": 526
+        },
+        {
+          "file": "data/images/page62_img_284.png",
+          "xref": 527
+        },
+        {
+          "file": "data/images/page62_img_285.png",
+          "xref": 528
+        },
+        {
+          "file": "data/images/page62_img_286.png",
+          "xref": 529
+        },
+        {
+          "file": "data/images/page62_img_287.png",
+          "xref": 530
+        },
+        {
+          "file": "data/images/page62_img_288.png",
+          "xref": 531
+        },
+        {
+          "file": "data/images/page62_img_289.png",
+          "xref": 532
+        },
+        {
+          "file": "data/images/page62_img_290.png",
+          "xref": 533
+        },
+        {
+          "file": "data/images/page62_img_291.png",
+          "xref": 534
+        },
+        {
+          "file": "data/images/page62_img_292.png",
+          "xref": 508
+        },
+        {
+          "file": "data/images/page62_img_293.png",
+          "xref": 535
+        },
+        {
+          "file": "data/images/page62_img_294.png",
+          "xref": 536
+        },
+        {
+          "file": "data/images/page62_img_295.png",
+          "xref": 537
+        },
+        {
+          "file": "data/images/page62_img_296.png",
+          "xref": 538
+        },
+        {
+          "file": "data/images/page62_img_297.png",
+          "xref": 539
+        },
+        {
+          "file": "data/images/page62_img_298.png",
+          "xref": 540
+        },
+        {
+          "file": "data/images/page62_img_299.png",
+          "xref": 541
+        },
+        {
+          "file": "data/images/page62_img_300.png",
+          "xref": 542
+        },
+        {
+          "file": "data/images/page62_img_301.png",
+          "xref": 509
+        },
+        {
+          "file": "data/images/page62_img_302.png",
+          "xref": 510
+        },
+        {
+          "file": "data/images/page62_img_303.png",
+          "xref": 511
+        },
+        {
+          "file": "data/images/page62_img_304.png",
+          "xref": 512
+        },
+        {
+          "file": "data/images/page62_img_305.png",
+          "xref": 513
+        },
+        {
+          "file": "data/images/page62_img_306.png",
+          "xref": 514
+        }
+      ],
+      "features": [
+        "•   It's malignant growth within terminal ductal",
+        "•   Not invading basement membrane into the",
+        "•   Monomorphic round tumor cells",
+        "•   No necrosis or calcification.",
+        "•   Associated usually with LCIS.",
+        "•   Formed of small tumor cells arranged singly in cord-like  ( Indian file pattern ) Spot diagnosis",
+        "•   Tumor cells show minimal atypia."
+      ]
+    },
+    {
+      "pageNumber": 63,
+      "slideCandidates": [
+        "Tubular carcinoma",
+        "Mucinous carcinoma",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n63\nTubular carcinoma\n•\n \nFormed of \nangulated\n ducts.\n•\n \nLined by \nsingle\n layer of epithelium.\n•\n \nNot associated with necrosis or mitosis.\nMucinous carcinoma\n•\n \nMicroscopic:\nClusters of tumor cells floating in mucin pool.\nSignet Ring Appearance",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page63_img_307.png",
+          "xref": 546
+        },
+        {
+          "file": "data/images/page63_img_308.png",
+          "xref": 547
+        },
+        {
+          "file": "data/images/page63_img_309.png",
+          "xref": 548
+        },
+        {
+          "file": "data/images/page63_img_310.png",
+          "xref": 549
+        },
+        {
+          "file": "data/images/page63_img_311.png",
+          "xref": 550
+        },
+        {
+          "file": "data/images/page63_img_312.png",
+          "xref": 551
+        },
+        {
+          "file": "data/images/page63_img_313.png",
+          "xref": 552
+        }
+      ],
+      "features": [
+        "•   Formed of  angulated  ducts.",
+        "•   Lined by  single  layer of epithelium.",
+        "•   Not associated with necrosis or mitosis.",
+        "•   Microscopic:"
+      ]
+    },
+    {
+      "pageNumber": 64,
+      "slideCandidates": [
+        "CNS",
+        "Medullary Carcinoma",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n64\nMedullary Carcinoma\n•\n \nGood prognosis.\n•\n \ngroups of tumor cells with syncytial \nappearance (that is, seemingly fused \ncytoplasms, at left). \n•\n \nThere is typically also a lymphocytic \nand plasma cell infiltrate (right).\nCNS",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page64_img_314.png",
+          "xref": 556
+        }
+      ],
+      "features": [
+        "•   Good prognosis.",
+        "•   groups of tumor cells with syncytial",
+        "appearance (that is, seemingly fused",
+        "cytoplasms, at left).",
+        "•   There is typically also a lymphocytic"
+      ]
+    },
+    {
+      "pageNumber": 65,
+      "slideCandidates": [
+        "Anaplastic Astrocytoma",
+        "Astrocytoma glioblastoma multiform",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n65\nAnaplastic Astrocytoma\n \nHigh cellularity,  nuclear pleomorphism, frequent mitosis..\n \nAstrocytoma glioblastoma multiform\n \nLarge mass, greyish, hemorrhage, necrosis, infiltration",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page65_img_315.png",
+          "xref": 560
+        },
+        {
+          "file": "data/images/page65_img_316.png",
+          "xref": 561
+        }
+      ],
+      "features": [
+        "High cellularity,  nuclear pleomorphism, frequent mitosis..",
+        "Large mass, greyish, hemorrhage, necrosis, infiltration"
+      ]
+    },
+    {
+      "pageNumber": 66,
+      "slideCandidates": [
+        "Ependymoma",
+        "Glioblastoma Astrocytoma",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n66\nGlioblastoma Astrocytoma\nSmall round cells, bizarre giant cells, area of necrosis  with pseudopalisading (tumor \ncells surrounding a necrotic area), pleomorphic astrocytes, hemorrhage, necrosis.   \nEpendymoma\n \nSolid, large, grayish mass arising from the ependymal lining  of  the fourth ventricle above   \nthe brainstem and bulging toward the cerebellum",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page66_img_317.png",
+          "xref": 565
+        },
+        {
+          "file": "data/images/page66_img_318.png",
+          "xref": 566
+        }
+      ],
+      "features": [
+        "Small round cells, bizarre giant cells, area of necrosis  with pseudopalisading (tumor",
+        "cells surrounding a necrotic area), pleomorphic astrocytes, hemorrhage, necrosis.",
+        "Solid, large, grayish mass arising from the ependymal lining  of  the fourth ventricle above"
+      ]
+    },
+    {
+      "pageNumber": 67,
+      "slideCandidates": [
+        "Ependymoma",
+        "Oligodendrogliomas",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n67\nEpendymoma\n \nThe tumor cells have regular, round to oval nuclei and abundant granular chromatin. \nBetween the nuclei is a variably dense fibrillary background.\nTumor cells may form round or elongated structures (rosettes, canals); more frequently \npresent are perivascular pseudorosettes in which tumor cells are arranged around vessels.\nOligodendrogliomas\n \nsheets of regular cells with spherical hyperchromatic nuclei surrounded by a clear halo of \ncytoplasm. Calcification is also seen",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page67_img_319.png",
+          "xref": 570
+        },
+        {
+          "file": "data/images/page67_img_320.png",
+          "xref": 571
+        }
+      ],
+      "features": [
+        "The tumor cells have regular, round to oval nuclei and abundant granular chromatin.",
+        "Tumor cells may form round or elongated structures (rosettes, canals); more frequently"
+      ]
+    },
+    {
+      "pageNumber": 68,
+      "slideCandidates": [
+        "Medulloblastoma",
+        ".",
+        "Hypercelluarity with small round blue cells with Homer-wright rosette (arrow)"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n68\nMedulloblastoma\n.\n \nwell circumscribed, irregular, \ngrayish, friable mass near the \nmidline of the cerebellum. \n \nMedulloblastoma \nHypercelluarity with small round blue cells with Homer-wright rosette (arrow)",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page68_img_321.png",
+          "xref": 575
+        },
+        {
+          "file": "data/images/page68_img_322.png",
+          "xref": 576
+        }
+      ],
+      "features": [
+        "well circumscribed, irregular,",
+        "grayish, friable mass near the"
+      ]
+    },
+    {
+      "pageNumber": 69,
+      "slideCandidates": [
+        "Meningioma",
+        "(Syncytial type)",
+        "Syncytial type: with whorls; nodules of meningiothelial cells, tight clusters of"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n69\nMeningioma\n \nSolid, well circumscribed, rounded, \n(1-10 cm), grayish, areas of \ncalcification, indent brain tissue.\n \nMeningioma\n(Syncytial type)\n \nSyncytial type: with whorls; nodules of meningiothelial cells, tight clusters of \ncells without visible cell membranes",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page69_img_323.png",
+          "xref": 580
+        },
+        {
+          "file": "data/images/page69_img_324.png",
+          "xref": 581
+        }
+      ],
+      "features": [
+        "Solid, well circumscribed, rounded,",
+        "(1-10 cm), grayish, areas of",
+        "calcification, indent brain tissue.",
+        "Syncytial type: with whorls; nodules of meningiothelial cells, tight clusters of"
+      ]
+    },
+    {
+      "pageNumber": 70,
+      "slideCandidates": [
+        "Meningioma",
+        "NEUROFIBROMA",
+        "(Transitional  type)"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n70\nMeningioma\n(Transitional  type)\n \nFeatures of the meningothelial (whorls) and fibroblastic types,\nlaminated calcification (psammomas bodies). \nNEUROFIBROMA\n \nMultiple nodules,  variant sizes\n \nThe tumors in the Schwann cells, myelin \nfiber and the axon itself.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page70_img_325.png",
+          "xref": 585
+        },
+        {
+          "file": "data/images/page70_img_326.png",
+          "xref": 586
+        },
+        {
+          "file": "data/images/page70_img_327.png",
+          "xref": 587
+        },
+        {
+          "file": "data/images/page70_img_328.png",
+          "xref": 588
+        }
+      ],
+      "features": [
+        "Features of the meningothelial (whorls) and fibroblastic types,",
+        "Multiple nodules,  variant sizes",
+        "The tumors in the Schwann cells, myelin"
+      ]
+    },
+    {
+      "pageNumber": 71,
+      "slideCandidates": [
+        "NEUROFIBROMA",
+        "SCHWANNOMA",
+        "Schwann cells, fibrous tissue, proliferating axons, inflammatory cells"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n71\nNEUROFIBROMA\n \nSchwann cells, fibrous tissue, proliferating axons, inflammatory cells\n \nSCHWANNOMA \n \nAntoni type A :\ncondensed cellular tumor, a uniform proliferation of neoplastic Schwann cells.\nbland spindle cells with buckled nuclei are arranged into intersecting fascicles. These cells often align to produce \nnuclear palisading, resulting in alternating bands of nuclear and anuclear areas called Verocay bodies.\nAxons are largely excluded from the tumor.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page71_img_329.png",
+          "xref": 592
+        },
+        {
+          "file": "data/images/page71_img_330.png",
+          "xref": 601
+        },
+        {
+          "file": "data/images/page71_img_331.png",
+          "xref": 602
+        },
+        {
+          "file": "data/images/page71_img_332.png",
+          "xref": 603
+        },
+        {
+          "file": "data/images/page71_img_333.png",
+          "xref": 604
+        },
+        {
+          "file": "data/images/page71_img_334.png",
+          "xref": 605
+        },
+        {
+          "file": "data/images/page71_img_335.png",
+          "xref": 593
+        },
+        {
+          "file": "data/images/page71_img_336.png",
+          "xref": 594
+        },
+        {
+          "file": "data/images/page71_img_337.png",
+          "xref": 595
+        },
+        {
+          "file": "data/images/page71_img_338.png",
+          "xref": 596
+        },
+        {
+          "file": "data/images/page71_img_339.png",
+          "xref": 597
+        },
+        {
+          "file": "data/images/page71_img_340.png",
+          "xref": 598
+        },
+        {
+          "file": "data/images/page71_img_341.png",
+          "xref": 599
+        },
+        {
+          "file": "data/images/page71_img_342.png",
+          "xref": 600
+        }
+      ],
+      "features": [
+        "Schwann cells, fibrous tissue, proliferating axons, inflammatory cells",
+        "Antoni type A :",
+        "condensed cellular tumor, a uniform proliferation of neoplastic Schwann cells.",
+        "nuclear palisading, resulting in alternating bands of nuclear and anuclear areas called Verocay bodies."
+      ]
+    },
+    {
+      "pageNumber": 72,
+      "slideCandidates": [
+        "Blood and lymph",
+        "SCHWANNOMA",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n72\nSCHWANNOMA\n \nAntoni B:\nLoose, hypocellular areas, the spindle cells are spread apart by a prominent myxoid extracellular matrix.\nThick-walled hyalinized vessels often are present. Hemorrhage or cystic changes sometimes seen.\nBlood and lymph",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page72_img_343.png",
+          "xref": 609
+        },
+        {
+          "file": "data/images/page72_img_344.png",
+          "xref": 610
+        },
+        {
+          "file": "data/images/page72_img_345.png",
+          "xref": 611
+        },
+        {
+          "file": "data/images/page72_img_346.png",
+          "xref": 612
+        }
+      ],
+      "features": [
+        "Antoni B:",
+        "Loose, hypocellular areas, the spindle cells are spread apart by a prominent myxoid extracellular matrix."
+      ]
+    },
+    {
+      "pageNumber": 73,
+      "slideCandidates": [
+        "Iron deficiency anaemia",
+        "Megaloblastic anaemia",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n73\nDr. Hamzah AD\nBlood film shows:\n1.\nThe RBCs are smaller than normal and have \nan increased zone of central pallor. \n2.\nHypochromic (less hemoglobin in RBC).\n3.\nMicrocytic (smaller size of each RBC).\n4.\nAnisocytosis (variation in size)\n5.\nPoikilocytosis (variation in shape). \n6.\nTarget cells and pencil cells.\nIron deficiency anaemia\na. Koilonychia:\n typical spooning of nails.\nDr. Hamzah AD\nBlood film shows:\n1.\nHypersegmented neutrophils.\n2.\nMacro-ovalocytes (arrow): large oval \nRBCs lacking the central pallor. \nMegaloblastic anaemia",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page73_img_347.png",
+          "xref": 616
+        },
+        {
+          "file": "data/images/page73_img_348.png",
+          "xref": 617
+        },
+        {
+          "file": "data/images/page73_img_349.png",
+          "xref": 618
+        }
+      ],
+      "features": [
+        "Blood film shows:",
+        "a. Koilonychia:  typical spooning of nails.",
+        "Blood film shows:",
+        "Macro-ovalocytes (arrow): large oval"
+      ]
+    },
+    {
+      "pageNumber": 74,
+      "slideCandidates": [
+        "Megaloblastic anaemia",
+        "Thalassemia",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n74\nBone marrow shows:\n1.\n \nHypercellularity.\n2.\n \nErythroblast: megaloblastic changes: \n(Asynchronous maturation)\n\nLarge cells.\n\nNucleus: lack of maturation, open \nsieve-like (مثل المشن) chromatin. \n\nCytoplasm: normal maturation.\n3.\n \nGiant metamyelocytes.\n4.\n \nGiant Band forms.\nMegaloblastic anaemia\nα\n-Thalassemia major, Blood film:\n1.\nAnisocytosis (variation in size) of RBCs.\n2.\nPoikilocytosis (variation in shape) of RBCs.\n3.\nExpansion of erythropoiesis and presence of many \nimmature RBCs in the peripheral blood, as evidenced by:\n\nNucleated RBCs (\n▲\n), \n\nErythroblasts (□). \n4. Sever microcytic hypochromic.\n5. Target cells.\nThalassemia",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page74_img_350.png",
+          "xref": 622
+        },
+        {
+          "file": "data/images/page74_img_351.png",
+          "xref": 623
+        }
+      ],
+      "features": [
+        "Bone marrow shows:",
+        "2.   Erythroblast: megaloblastic changes:",
+        " Nucleus: lack of maturation, open",
+        " Cytoplasm: normal maturation.",
+        "α -Thalassemia major, Blood film:",
+        "immature RBCs in the peripheral blood, as evidenced by:",
+        " Nucleated RBCs ( ▲ ),"
+      ]
+    },
+    {
+      "pageNumber": 75,
+      "slideCandidates": [
+        "Sickle cell anaemia",
+        "Hereditary spherocytosis",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n75\nSickle cell anaemia\nNecrosis and ulceration on \nmedial Aspect of the ankle.\nBlood film shows:\n1. Some sickle cells.            2. Fragmented cells.\n3. Target cells.                      4. Nucleated cells.\nHereditary spherocytosis\nBlood film shows:\n1.\nMicro-spherocytes: Small, Rounded, \nHyperdense (lack of central pallor).\n2.\nOccasional normoblast.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page75_img_352.png",
+          "xref": 627
+        },
+        {
+          "file": "data/images/page75_img_353.png",
+          "xref": 628
+        },
+        {
+          "file": "data/images/page75_img_354.png",
+          "xref": 629
+        }
+      ],
+      "features": [
+        "Blood film shows:",
+        "Blood film shows:",
+        "Micro-spherocytes: Small, Rounded,"
+      ]
+    },
+    {
+      "pageNumber": 76,
+      "slideCandidates": [
+        "G6PD Deficiency",
+        "Aplastic anaemia",
+        "1/3/2026"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n76\nG6PD Deficiency\nblood film shows:\n•\n \nFragmented and bite (blister) cells.  \nblood film shows:\nHeinz bodies by \nsupravital stain\n(precipitated methemoglobin).\nAplastic anaemia\nBone marrow biopsy shows:\n1.\nHypocellularity.\n2.\nHematopoietic elements are markedly reduced.\n3.\nFatty replacement.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page76_img_355.png",
+          "xref": 633
+        },
+        {
+          "file": "data/images/page76_img_356.png",
+          "xref": 634
+        },
+        {
+          "file": "data/images/page76_img_357.png",
+          "xref": 635
+        }
+      ],
+      "features": [
+        "blood film shows:",
+        "•   Fragmented and bite (blister) cells.",
+        "blood film shows:",
+        "Bone marrow biopsy shows:"
+      ]
+    },
+    {
+      "pageNumber": 77,
+      "slideCandidates": [
+        "ALL",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n77\nALL\n \nBlood Film:\n•\nImmature\n Lymphoblasts\n \nwith scant \ncytoplasm and large nuclei that \ncontain \nnucleoli\n. \nDr. Hamzah AD\n•\nMyeloblastic without maturation (Blasts > 90%).\n•\nCytoplasm:\n fine azurophilic \ngranulation\n, \nAuer rod\n.\n•\nNucleus:\n one or more prominent nucleoli.\nAML: M 1\n \nAML: M 2\n \n•\nM\n2\n → \nMyeloblastic\n with \ngranulocytic\n maturation (Blasts \n30% - 50%).\n•\nPeroxidase stain\n•\nTwo leukemic myeloblasts with peroxidase positive \ngranules.\n•\nIntensely stained cell is a \nmore mature granulocyte\n.\n•\nNegatively stained cell could be lymphocyte.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page77_img_358.png",
+          "xref": 639
+        },
+        {
+          "file": "data/images/page77_img_359.png",
+          "xref": 640
+        },
+        {
+          "file": "data/images/page77_img_360.png",
+          "xref": 641
+        }
+      ],
+      "features": [
+        "Blood Film:",
+        "•",
+        "•",
+        "•",
+        "Cytoplasm:  fine azurophilic  granulation ,  Auer rod .",
+        "•",
+        "Nucleus:  one or more prominent nucleoli.",
+        "AML: M 1",
+        "AML: M 2",
+        "•",
+        "•",
+        "•",
+        "•",
+        "•"
+      ]
+    },
+    {
+      "pageNumber": 78,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "78"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n78\nBlood Film:\n•\nLeukocytosis (mainly: basophils, eosinophils and bands).\n•\nComplete spectrum of myeloid series in blood with \npredominance of \nmyelocytes\n and \nneutrophils\n.\nCML \nBone marrow examination:\n•\nHypercellular B.M \n•\nPredominance of \nmyelocytes\n.\nDr. Hamzah AD\nBlood film:\n•\nLymphocytosis:\n•\nSmall, normally appearing mature lymphocytes.\n•\nSmudge (smear) cells are present.\nCLL\n \nBone marrow:\nHypercellular.\nReplacement of B.M elements by lymphocytes.",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page78_img_361.png",
+          "xref": 645
+        },
+        {
+          "file": "data/images/page78_img_362.png",
+          "xref": 646
+        },
+        {
+          "file": "data/images/page78_img_363.png",
+          "xref": 647
+        },
+        {
+          "file": "data/images/page78_img_364.png",
+          "xref": 648
+        }
+      ],
+      "features": [
+        "Blood Film:",
+        "•",
+        "Leukocytosis (mainly: basophils, eosinophils and bands).",
+        "•",
+        "Bone marrow examination:",
+        "•",
+        "•",
+        "Blood film:",
+        "•",
+        "Lymphocytosis:",
+        "•",
+        "Small, normally appearing mature lymphocytes.",
+        "•",
+        "Bone marrow:"
+      ]
+    },
+    {
+      "pageNumber": 79,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "79"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n79\nenlarged (> 1cm) node, firm, irregular, lobulated.\nNo or minimal necrosis and hemorrhage. \nCut-section:\n \ngrayish pink, homogenous.\nHodgkin's lymphoma\nReed-Sternberg cell: \n2 mirror image nuclei (owl-eyed) \nsurrounded by clear zone. Eosinophilic nucleolus & \nabundant eosinophilic cytoplasm.\nNon-neoplastic cells:\n mixture of Leukocytes.\nDr. Hamzah AD\nB.\n mixed population of lymphocytes, plasma cells, \neosinophils, histiocytes and Reed–Sternberg cells.\n(\nStain: Hematoxylin & eosin\n). \nHodgkin's lymphoma: Mixed cellularity\n•\nMany \nReed-Sternberg variants.\n•\nFew \nlymphocytes.\n•\nSome association with \nHIV infection\n. \n•\nIt is often associated with \nEBV infection\n. \nHodgkin's lymphoma: Lymphocyte depletion",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page79_img_365.png",
+          "xref": 652
+        },
+        {
+          "file": "data/images/page79_img_366.png",
+          "xref": 653
+        },
+        {
+          "file": "data/images/page79_img_367.png",
+          "xref": 654
+        },
+        {
+          "file": "data/images/page79_img_368.png",
+          "xref": 655
+        },
+        {
+          "file": "data/images/page79_img_369.png",
+          "xref": 656
+        }
+      ],
+      "features": [
+        "enlarged (> 1cm) node, firm, irregular, lobulated.",
+        "Cut-section:   grayish pink, homogenous.",
+        "Reed-Sternberg cell:  2 mirror image nuclei (owl-eyed)",
+        "Non-neoplastic cells:  mixture of Leukocytes.",
+        "B.  mixed population of lymphocytes, plasma cells,",
+        "eosinophils, histiocytes and Reed–Sternberg cells.",
+        "( Stain: Hematoxylin & eosin ).",
+        "Hodgkin's lymphoma: Mixed cellularity",
+        "•",
+        "•",
+        "•",
+        "•",
+        "Hodgkin's lymphoma: Lymphocyte depletion"
+      ]
+    },
+    {
+      "pageNumber": 80,
+      "slideCandidates": [
+        "1/3/2026",
+        "Dr. Hamzah AD.",
+        "80"
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n80\nDr. Hamzah AD\n•\nSeen here on cut surface of liver are two rounded \npale tan mass lesions (\narrows\n). \n•\nThe color can range from white to tan to red, often \nintermixed\n. \nNon- Hodgkin's lymphoma: Diffuse large B-cell lymphoma\n•\nLarge cells with large nuclei & prominent nucleoli. \n•\nMitoses are frequent. \n•\nThe cells mark with CD10, CD19, and \nCD20\n.\nDr. Hamzah AD\n•\n \nSmall intestinal mucosa with large infiltrating cells of \nBurkitt lymphoma (BL). \n•\n \nMitoses and apoptosis with cellular debris cleared by \nlarge \nmacrophages \nproducing a \n“starry sky”\n pattern are \nprominent features. \nNHL: Burkitt lymphoma\n•\nSmall lymphocytes \nwith \nplasmacytoid cells \nand few \nlarge cells\n. \n•\nCharacteristic \nPAS-positive \nintranuclear inclusions \n(\narrows\n) known as \nDutcher bodies\n.  \nNHL: Lymphoplasmacytic lymphoma",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page80_img_370.png",
+          "xref": 660
+        },
+        {
+          "file": "data/images/page80_img_371.png",
+          "xref": 661
+        },
+        {
+          "file": "data/images/page80_img_372.png",
+          "xref": 662
+        },
+        {
+          "file": "data/images/page80_img_373.png",
+          "xref": 663
+        }
+      ],
+      "features": [
+        "•",
+        "•",
+        "The color can range from white to tan to red, often",
+        "Non- Hodgkin's lymphoma: Diffuse large B-cell lymphoma",
+        "•",
+        "•",
+        "•",
+        "The cells mark with CD10, CD19, and  CD20 .",
+        "•   Small intestinal mucosa with large infiltrating cells of",
+        "•   Mitoses and apoptosis with cellular debris cleared by",
+        "NHL: Burkitt lymphoma",
+        "•",
+        "•",
+        "NHL: Lymphoplasmacytic lymphoma"
+      ]
+    },
+    {
+      "pageNumber": 81,
+      "slideCandidates": [
+        "Thank you..",
+        "1/3/2026",
+        "Dr. Hamzah AD."
+      ],
+      "extracted_text": "1/3/2026\nDr. Hamzah AD.\n81\nDr. Hamzah AD\nBone marrow biopsy: \n•\nSheets of plasma cells that are very \nsimilar to normal plasma cells.\nMultiple myeloma\nA smear of bone marrow aspirate:\n•\n \nPlasma cells constituting more than 30% of cellularity. \n•\n \nNumerous plasma cells with a \nperinuclear halo of clearer \ncytoplasm \n(Golgi apparatus). \n•\n \nLarger abnormal plasma cells, one double-nucleated (\narrows\n). \n•\n \nClear cytoplasmic droplets contain immunoglobulin.\nThank you..\nDr. Hamzah AD",
+      "ocr": false,
+      "images": [
+        {
+          "file": "data/images/page81_img_374.png",
+          "xref": 667
+        },
+        {
+          "file": "data/images/page81_img_375.png",
+          "xref": 668
+        }
+      ],
+      "features": [
+        "Bone marrow biopsy:",
+        "•",
+        "A smear of bone marrow aspirate:",
+        "•   Plasma cells constituting more than 30% of cellularity.",
+        "•   Numerous plasma cells with a  perinuclear halo of clearer",
+        "•   Larger abnormal plasma cells, one double-nucleated ( arrows ).",
+        "•   Clear cytoplasmic droplets contain immunoglobulin."
+      ]
+    }
+  ]
 }
