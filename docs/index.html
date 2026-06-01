@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pathology Lab Interactive Learning</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Pathology Lab Interactive Learning</h1>
+    <nav>
+      <button id="btn-study">Study Mode</button>
+      <button id="btn-quiz">Quiz Mode</button>
+      <button id="btn-stats">Statistics</button>
+    </nav>
+  </header>
+
+  <main id="app">
+    <section id="study-view" class="hidden">
+      <div class="study-controls">
+        <button id="prev-page">Previous Page</button>
+        <span id="current-page-indicator"></span>
+        <button id="next-page">Next Page</button>
+        <select id="page-select"></select>
+        <input id="search" placeholder="Search disease, slide, feature or keyword" />
+      </div>
+      <article id="slide-container"></article>
+    </section>
+
+    <section id="quiz-view" class="hidden">
+      <div id="quiz-header">
+        <div id="progress-bar"><div id="progress"></div></div>
+        <div id="counters">Question <span id="q-index">0</span> / <span id="q-total">0</span> | Score: <span id="score">0</span></div>
+      </div>
+      <div id="quiz-content"></div>
+      <div id="quiz-controls">
+        <button id="next-question" disabled>Next Question</button>
+      </div>
+    </section>
+
+    <section id="results-view" class="hidden">
+      <h2>Quiz Results</h2>
+      <div id="results-summary"></div>
+      <button id="restart-quiz">Restart Quiz</button>
+      <h3>Review Incorrect Answers</h3>
+      <div id="review-list"></div>
+    </section>
+
+    <section id="stats-view" class="hidden">
+      <h2>Statistics</h2>
+      <div id="stats-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <small>All content was extracted from the provided PDF. This site does not add or invent medical content.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
