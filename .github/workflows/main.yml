@@ -35,23 +35,12 @@ jobs:
         run: |
           python scripts/extract.py "pathology lab summary full_102337.pdf" data
 
-      - name: Commit generated dataset and images
-        env:
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-        run: |
-          git config user.name "$GIT_AUTHOR_NAME"
-          git config user.email "$GIT_AUTHOR_EMAIL"
-          git add data/dataset.json data/images || true
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore(build): add extracted dataset and images" || true
-            git push origin HEAD:main || true
-          fi
-
       - name: Run verification script
         run: |
+          if [ ! -f scripts/verify_dataset.py ]; then
+            echo "scripts/verify_dataset.py not found; please add it or update workflow path"
+            exit 1
+          fi
           python scripts/verify_dataset.py data/dataset.json
 
       - name: Commit generated dataset and images
