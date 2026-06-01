@@ -1,0 +1,55 @@
+name: Extract PDF, generate dataset and images
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  extract-and-commit:
+    name: Extract and commit dataset
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install system dependencies (Tesseract for OCR)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr libtesseract-dev
+
+      - name: Install Python requirements
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run extractor
+        run: |
+          python scripts/extract.py "pathology lab summary full_102337.pdf" data
+
+      - name: Run verification script
+        run: |
+          python scripts/verify_dataset.py data/dataset.json
+
+      - name: Commit generated dataset and images
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git config user.name "$GIT_AUTHOR_NAME"
+          git config user.email "$GIT_AUTHOR_EMAIL"
+          git add data/dataset.json data/images || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(build): add extracted dataset and images" || true
+            git push origin HEAD:main || true
+          fi
