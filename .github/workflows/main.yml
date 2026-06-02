@@ -50,7 +50,7 @@ jobs:
       - name: Run verification script
         run: |
           if [ -f scripts/verify_dataset.py ]; then
-            python scripts/verify_dataset.py
+            python scripts/verify_dataset.py data/dataset.json
           else
             echo "Verification file skipped."
           fi
