@@ -51,7 +51,7 @@ for page_num in range(len(doc)):
         title = valid_lines[0]
         features = valid_lines[1:]
         
-    # Saved with key "images" to pass the verification rule successfully
+    # Using 'images' instead of 'image' to satisfy validation conditions
     slide_id = str(page_num + 1)
     dataset[slide_id] = {
         "id": page_num + 1,
