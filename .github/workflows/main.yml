@@ -21,38 +21,14 @@ jobs:
 
       - name: Run extractor script
         run: |
-          python -c "
-          import fitz, json, os, re
-          pdf_files = [f for f in os.listdir('.') if f.endswith('.pdf')]
-          if not pdf_files: raise FileNotFoundError('No PDF found')
-          doc = fitz.open(pdf_files[0])
-          dataset = {}
-          os.makedirs('data/images', exist_ok=True)
-          for idx, page in enumerate(doc):
-              pix = page.get_pixmap(dpi=150)
-              img_name = f'slide_{idx+1}.png'
-              pix.save(os.path.join('data/images', img_name))
-              text = page.get_text('text').strip()
-              lines = [l.strip() for l in text.split('\n') if l.strip()]
-              title = lines[0] if lines else f'Slide {idx+1}'
-              features = lines[1:] if len(lines) > 1 else ['Please refer to the image for details.']
-              dataset[str(idx+1)] = {
-                  'id': idx + 1,
-                  'title': title,
-                  'images': f'../data/images/{img_name}',
-                  'features': features
-              }
-          with open('data/dataset.json', 'w', encoding='utf-8') as f:
-              json.dump(dataset, f, indent=4, ensure_ascii=False)
-          print('Extraction Complete!')
-          "
+          python scripts/extract.py
 
       - name: Run verification script
         run: |
           if [ -f scripts/verify_dataset.py ]; then
             python scripts/verify_dataset.py data/dataset.json
           else
-            echo "Verification file skipped."
+            echo "No verification script found."
           fi
 
       - name: Commit data
@@ -60,5 +36,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git commit -m "Auto-generated clean dataset and images" || echo "No changes"
+          git commit -m "Auto-generated compliant dataset and images" || echo "No changes"
           git push
